@@ -6,7 +6,7 @@ The repository includes MongoDB collection modeling, realistic operational queri
 ## Background
 The platform merges two business models:
 1.	Regular Product Orders – Standard e-commerce orders for books, CDs, phones, and appliances.
-2.	Fresh Product Orders – Same-day or instant delivery groceries from local Morrizon stores in Manchester, handled by delivery partners.
+2.	Fresh Product Orders – Same-day or instant delivery groceries from local stores in Manchester, handled by delivery partners.
 
 The database is designed to support:
 - Multiple product categories with complex metadata
@@ -50,7 +50,7 @@ python scripts/seed_database.py
 | `products`              | Unified product master data used for lookups and categorization            |
 | `ratings`               | Customer-product rating documents (sparse but frequently queried)          |
 | `regular_products`      | Non-grocery products (books, CDs, phones, appliances)                      |
-| `stores`                | Morrizon store metadata with geo-coordinates and available inventory       |
+| `stores`                | Store metadata with geo-coordinates and available inventory       |
 ## Running the Queries
 Each query is implemented as a standalone CLI script inside the queries/ folder.
 
