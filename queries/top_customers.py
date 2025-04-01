@@ -1,5 +1,3 @@
-import argparse
-import json
 from scripts.db_connect import get_db
 
 # Identify top 10 customers by total spending.
@@ -42,7 +40,7 @@ def get_top_customers():
     ])
     return list(top_customers)
 
-def main(args):
+def main():
     try:
         customers_list = get_top_customers()
         if customers_list:
@@ -53,15 +51,10 @@ def main(args):
                 print(f"   Total Spent: £{customer['total_spent']:.2f}")
                 print("-" * 30)
 
-            # Export to JSON
-            with open("Question5_Query13.json", "w") as file:
-                json.dump(customers_list, file, default=str, indent=4)
         else:
             print("No customers found.")
     except Exception as e:
         print("Error:", e)
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Get top 10 customers by total spending.")
-    args = parser.parse_args()
-    main(args)
+    main()
