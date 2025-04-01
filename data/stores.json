@@ -1,0 +1,56 @@
+[
+  {
+    "store_id": 1,
+    "fresh_product_id": [45, 46, 49, 52, 56, 57, 59, 60,61, 62, 63, 67],
+    "location": {
+      "latitude": 53.4794,
+      "longitude": -2.2451
+    },
+    "address": "Piccadilly Gardens, Manchester, M1 1RG"
+  },
+  {
+    "store_id": 2,
+    "fresh_product_id": [45,47,49, 52, 56, 59, 60,6, 63, 68],
+    "location": {
+      "latitude": 53.4734,
+      "longitude": -2.2234
+    },
+    "address": "Openshaw, Manchester, M11 2NN"
+  },
+  {
+    "store_id": 3,
+    "fresh_product_id": [46, 50, 52, 55, 59, 60, 62, 64, 69],
+    "location": {
+      "latitude": 53.4289,
+      "longitude": -2.2506
+    },
+    "address": "Chorlton-cum-Hardy, Manchester, M21 9AF"
+  },
+  {
+    "store_id": 4,
+    "fresh_product_id": [46, 50, 52, 55, 58, 59, 60, 61, 65, 68, 72],
+    "location": {
+      "latitude": 53.5156,
+      "longitude": -2.1655
+    },
+    "address": "Failsworth, Manchester, M35 0HF"
+  },
+  {
+    "store_id": 5,
+    "fresh_product_id": [47, 48, 51, 53, 59, 60, 61, 64, 66,68, 70, 72],
+    "location": {
+      "latitude": 53.4820,
+      "longitude": -2.3343
+    },
+    "address": "Eccles, Manchester, M30 0LH"
+  },
+  {
+    "store_id": 6,
+    "fresh_product_id": [45, 49, 52,54, 57, 58, 59, 60, 61, 65, 68, 71],
+    "location": {
+      "latitude": 53.5542,
+      "longitude": -2.2952
+    },
+    "address": "Whitefield, Manchester, M45 6AA"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "product_id": 1,
+    "artist": "The Beatles",
+    "number_of_tracks": 20,
+    "total_playing_time": 4500,
+    "publisher": "Apple Records"
+  },
+  {
+    "product_id": 2,
+    "artist": "Queen",
+    "number_of_tracks": 12,
+    "total_playing_time": 2500,
+    "publisher": "EMI"
+  },
+  {
+    "product_id": 3,
+    "artist": "Michael Jackson",
+    "number_of_tracks": 9,
+    "total_playing_time": 2600,
+    "publisher": "Epic Records"
+  },
+  {
+    "product_id": 4,
+    "artist": "Pink Floyd",
+    "number_of_tracks": 26,
+    "total_playing_time": 5100,
+    "publisher": "Harvest Records"
+  },
+  {
+    "product_id": 5,
+    "artist": "Amy Winehouse",
+    "number_of_tracks": 11,
+    "total_playing_time": 2250,
+    "publisher": "Island Records"
+  },
+  {
+    "product_id": 6,
+    "artist": "The Beatles",
+    "number_of_tracks": 17,
+    "total_playing_time": 2835,
+    "publisher": "Apple Records"
+  },
+  {
+    "product_id": 7,
+    "artist": "Pink Floyd",
+    "number_of_tracks": 10,
+    "total_playing_time": 2580,
+    "publisher": "Harvest Records"
+  },
+  {
+    "product_id": 8,
+    "artist": "Fleetwood Mac",
+    "number_of_tracks": 11,
+    "total_playing_time": 2400,
+    "publisher": "Warner Bros. Records"
+  },
+  {
+    "product_id": 9,
+    "artist": "Eagles",
+    "number_of_tracks": 9,
+    "total_playing_time": 2580,
+    "publisher": "Asylum Records"
+  },
+  {
+    "product_id": 10,
+    "artist": "Led Zeppelin",
+    "number_of_tracks": 8,
+    "total_playing_time": 2550,
+    "publisher": "Atlantic Records"
+  },
+  {
+    "product_id": 11,
+    "artist": "Nirvana",
+    "number_of_tracks": 12,
+    "total_playing_time": 2900,
+    "publisher": "DGC Records"
+  },
+  {
+    "product_id": 12,
+    "artist": "Bruce Springsteen",
+    "number_of_tracks": 8,
+    "total_playing_time": 2520,
+    "publisher": "Columbia Records"
+  }
+]

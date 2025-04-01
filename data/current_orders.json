@@ -1,0 +1,493 @@
+[
+    {
+        "order_id": 2001,
+        "total_cost": 10.00,
+        "order_date":{ "$date": "2024-12-11T00:00:00"},
+        "customer_id": 123,
+        "category": "fresh",
+        "store":1,
+        "item": [
+            {
+                "item_no": 1,
+                "product_id": 47,
+                "quantity": 2
+            }
+        ],
+        "status": "pending",
+        "estimated_arrival_time": { "$date":"2024-12-11T14:00:00"}
+    },
+    {
+        "order_id": 2002,
+        "total_cost": 15.50,
+        "order_date":{ "$date": "2024-12-11T00:00:00"},
+        "customer_id": 123,
+        "category": "regular",
+        "item": [
+            {
+                "item_no": 1,
+                "product_id": 12,
+                "quantity": 1
+            }
+        ],
+        "status": "shipped",
+        "estimated_arrival_time":{ "$date": "2024-01-18T16:30:00"}
+    },
+    {
+        "order_id": 2003,
+        "total_cost": 547.00,
+        "order_date":{ "$date": "2024-12-22T00:00:00"},
+        "customer_id": 245,
+        "category": "regular",
+        "item": [
+            {
+                "item_no": 1,
+                "product_id": 31,
+                "quantity": 1
+            },
+            {
+                "item_no": 2,
+                "product_id": 15,
+                "quantity": 2
+            }
+        ],
+        "status": "pending",
+        "estimated_arrival_time": { "$date":"2024-01-19T12:00:00"}
+    },
+    {
+        "order_id": 2004,
+        "total_cost": 9.00,
+        "order_date":{ "$date": "2024-12-16T00:00:00"},
+        "customer_id": 245,
+        "category": "regular",
+        "item": [
+            {
+                "item_no": 1,
+                "product_id": 15,
+                "quantity": 1
+            }
+        ],
+        "status": "shipped",
+        "estimated_arrival_time": { "$date":"2024-01-18T17:00:00"}
+    },
+    {
+        "order_id": 2005,
+        "total_cost": 644.00,
+        "order_date":{ "$date": "2024-12-12T00:00:00"},
+        "customer_id": 367,
+        "category": "regular",
+        "item": [
+            {
+                "item_no": 1,
+                "product_id": 8,
+                "quantity": 3
+            },
+            {
+                "item_no": 2,
+                "product_id": 42,
+                "quantity": 1
+            }
+        ],
+        "status": "pending",
+        "estimated_arrival_time": { "$date":"2024-01-19T15:30:00"}
+    },
+    {
+        "order_id": 2006,
+        "total_cost": 1198.00,
+        "order_date":{ "$date": "2024-12-10T00:00:00"},
+        "customer_id": 367,
+        "category": "regular",
+        "item": [
+            {
+                "item_no": 1,
+                "product_id": 42,
+                "quantity": 2
+            }
+        ],
+        "status": "shipped",
+        "estimated_arrival_time": { "$date":"2024-01-18T18:00:00"}
+    },
+    {
+        "order_id": 2007,
+        "total_cost": 621.00,
+        "order_date":{ "$date": "2024-12-16T00:00:00"},
+        "customer_id": 489,
+        "category": "regular",
+        "item": [
+            {
+                "item_no": 1,
+                "product_id": 23,
+                "quantity": 2
+            },
+            {
+                "item_no": 2,
+                "product_id": 36,
+                "quantity": 1
+            }
+        ],
+        "status": "pending",
+        "estimated_arrival_time": { "$date":"2024-01-19T14:00:00"}
+    },
+    {
+        "order_id": 2008,
+        "total_cost": 409.00,
+        "order_date": { "$date":"2024-12-14T00:00:00"},
+        "customer_id": 512,
+        "category": "regular",
+        "item": [
+            {
+                "item_no": 1,
+                "product_id": 19,
+                "quantity": 1
+            },
+            {
+                "item_no": 2,
+                "product_id": 44,
+                "quantity": 2
+            }
+        ],
+        "status": "shipped",
+        "estimated_arrival_time": { "$date":"2024-01-18T19:30:00"}
+    },
+    {
+        "order_id": 2009,
+        "total_cost": 729.00,
+        "order_date": { "$date":"2024-12-17T00:00:00"},
+        "customer_id": 634,
+        "category": "regular",
+        "item": [
+            {
+                "item_no": 1,
+                "product_id": 3,
+                "quantity": 2
+            },
+            {
+                "item_no": 2,
+                "product_id": 27,
+                "quantity": 1
+            }
+        ],
+        "status": "pending",
+        "estimated_arrival_time": { "$date":"2024-01-19T16:00:00"}
+    },
+    {
+        "order_id": 2010,
+        "total_cost": 10.4,
+        "order_date": { "$date":"2024-12-20T00:00:00"},
+        "customer_id": 756,
+        "category": "fresh",
+        "store":3,
+        "item": [
+            {
+                "item_no": 1,
+                "product_id": 50,
+                "quantity": 1
+            },
+            {
+                "item_no": 2,
+                "product_id": 46,
+                "quantity": 2
+            }
+        ],
+        "driver_id": 11,
+        "status": "shipped",
+        "estimated_arrival_time": { "$date":"2024-012-20T20:00:00"}
+    },
+    {
+        "order_id": 2011,
+        "total_cost": 1115.80,
+        "order_date": { "$date":"2024-12-19T00:00:00"},
+        "customer_id": 878,
+        "category": "regular",
+        "item": [
+            {
+                "item_no": 1,
+                "product_id": 38,
+                "quantity": 2
+            },
+            {
+                "item_no": 2,
+                "product_id": 7,
+                "quantity": 1
+            }
+        ],
+        "status": "pending",
+        "estimated_arrival_time": { "$date":"2024-01-19T17:30:00"}
+    },
+    {
+        "order_id": 2012,
+        "total_cost": 2598.00,
+        "order_date": { "$date":"2024-12-22T00:00:00"},
+        "customer_id": 901,
+        "category": "regular",
+        "item": [
+            {
+                "item_no": 1,
+                "product_id": 29,
+                "quantity": 2
+            },
+            {
+                "item_no": 2,
+                "product_id": 41,
+                "quantity": 1
+            }
+        ],
+        "status": "shipped",
+        "estimated_arrival_time": { "$date":"2024-01-18T21:00:00"}
+    },
+    {
+        "order_id": 2013,
+        "total_cost": 8.50,
+        "order_date": { "$date":"2024-12-13T00:00:00"},
+        "customer_id": 145,
+        "category": "fresh",
+        "store":4,
+        "item": [
+            {
+                "item_no": 1,
+                "product_id": 48,
+                "quantity": 1
+            },
+            {
+                "item_no": 2,
+                "product_id": 49,
+                "quantity": 2
+            }
+        ],
+        "status": "pending",
+        "estimated_arrival_time": { "$date":"2024-012-13T18:00:00"}
+    },
+    {
+        "order_id": 2014,
+        "total_cost": 10.25,
+        "order_date": { "$date":"2024-12-24T00:00:00"},
+        "customer_id": 267,
+        "category": "fresh",
+        "store":2,
+        "item": [
+            {
+                "item_no": 1,
+                "product_id": 45,
+                "quantity": 2
+            },
+            {
+                "item_no": 2,
+                "product_id": 51,
+                "quantity": 1
+            }
+        ],
+        "driver_id": 14,
+        "status": "shipped",
+        "estimated_arrival_time": { "$date":"2024-012-24T09:00:00"}
+    },
+    {
+        "order_id": 2015,
+        "total_cost": 316.00,
+        "order_date": { "$date":"2024-12-13T00:00:00"},
+        "customer_id": 389,
+        "category": "regular",
+        "item": [
+            {
+                "item_no": 1,
+                "product_id": 4,
+                "quantity": 1
+            },
+            {
+                "item_no": 2,
+                "product_id": 39,
+                "quantity": 2
+            }
+        ],
+        "status": "pending",
+        "estimated_arrival_time": { "$date":"2024-01-19T19:00:00"}
+    },
+    {
+        "order_id": 2016,
+        "total_cost": 571.00,
+        "order_date": { "$date":"2024-12-22T00:00:00"},
+        "customer_id": 412,
+        "category": "regular",
+        "item": [
+            {
+                "item_no": 1,
+                "product_id": 17,
+                "quantity": 2
+            },
+            {
+                "item_no": 2,
+                "product_id": 38,
+                "quantity": 1
+            }
+        ],
+        "status": "shipped",
+        "estimated_arrival_time": { "$date":"2024-01-18T23:00:00"}
+    },
+    {
+        "order_id": 2017,
+        "total_cost": 830.00,
+        "order_date": { "$date": "2024-12-23T00:00:00"},
+        "customer_id": 534,
+        "category": "regular",
+        "item": [
+            {
+                "item_no": 1,
+                "product_id": 25,
+                "quantity": 1
+            },
+            {
+                "item_no": 2,
+                "product_id": 10,
+                "quantity": 2
+            }
+        ],
+        "status": "pending",
+        "estimated_arrival_time":{ "$date": "2024-01-19T20:00:00"}
+    },
+    {
+        "order_id": 2018,
+        "total_cost": 914.50,
+        "order_date": { "$date":"2024-12-18T00:00:00"},
+        "customer_id": 656,
+        "category": "regular",
+        "item": [
+            {
+                "item_no": 1,
+                "product_id": 35,
+                "quantity": 2
+            },
+            {
+                "item_no": 2,
+                "product_id": 1,
+                "quantity": 1
+            }
+        ],
+        "status": "shipped",
+        "estimated_arrival_time": { "$date":"2024-01-19T00:00:00"}
+    },
+    {
+        "order_id": 2019,
+        "total_cost": 169.6,
+        "order_date": { "$date":"2024-12-21T00:00:00"},
+        "customer_id": 778,
+        "category": "regular",
+        "item": [
+            {
+                "item_no": 1,
+                "product_id": 43,
+                "quantity": 1
+            },
+            {
+                "item_no": 2,
+                "product_id": 20,
+                "quantity": 2
+            }
+        ],
+        "status": "pending",
+        "estimated_arrival_time": { "$date":"2024-01-19T21:00:00"}
+    },
+    {
+        "order_id": 2020,
+        "total_cost": 1530.00,
+        "order_date": { "$date":"2024-12-18T00:00:00"},
+        "customer_id": 891,
+        "category": "regular",
+        "item": [
+            {
+                "item_no": 1,
+                "product_id": 6,
+                "quantity": 2
+            },
+            {
+                "item_no": 2,
+                "product_id": 32,
+                "quantity": 1
+            }
+        ],
+        "status": "shipped",
+        "estimated_arrival_time": { "$date":"2024-01-19T01:00:00"}
+    },
+    {
+        "order_id": 2021,
+        "total_cost": 1027.00,
+        "order_date": { "$date":"2024-12-24T00:00:00"},
+        "customer_id": 923,
+        "category": "regular",
+        "item": [
+            {
+                "item_no": 1,
+                "product_id": 28,
+                "quantity": 1
+            },
+            {
+                "item_no": 2,
+                "product_id": 43,
+                "quantity": 2
+            }
+        ],
+        "status": "pending",
+        "estimated_arrival_time": { "$date":"2024-01-19T22:00:00"}
+    },
+    {
+        "order_id": 2022,
+        "total_cost": 231.60,
+        "order_date": { "$date":"2024-12-19T00:00:00"},
+        "customer_id": 167,
+        "category": "regular",
+        "item": [
+            {
+                "item_no": 1,
+                "product_id": 11,
+                "quantity": 2
+            },
+            {
+                "item_no": 2,
+                "product_id": 37,
+                "quantity": 1
+            }
+        ],
+        "status": "shipped",
+        "estimated_arrival_time": { "$date":"2024-01-19T02:00:00"}
+    },
+    {
+        "order_id": 2023,
+        "total_cost": 9.50,
+        "order_date": { "$date":"2024-12-16T00:00:00"},
+        "customer_id": 289,
+        "category": "fresh",
+        "store": 5,
+        "item": [
+            {
+                "item_no": 1,
+                "product_id": 54,
+                "quantity": 1
+            },
+            {
+                "item_no": 2,
+                "product_id": 49,
+                "quantity": 2
+            }
+        ],
+        "status": "pending",
+        "estimated_arrival_time": { "$date":"2024-012-16T10:00:00"}
+    },
+    {
+        "order_id": 2024,
+        "total_cost": 1027.00,
+        "order_date": { "$date":"2024-12-10T00:00:00"},
+        "customer_id": 289,
+        "category": "regular",
+        "item": [
+            {
+                "item_no": 1,
+                "product_id": 28,
+                "quantity": 1
+            },
+            {
+                "item_no": 2,
+                "product_id": 43,
+                "quantity": 2
+            }
+        ],
+        "status": "pending",
+        "estimated_arrival_time": { "$date":"2024-012-21T22:00:00"}
+    }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "customer_id": 123,
+    "name": "Mia Peterson",
+    "gender": "female",
+    "age": 30,
+    "phone_number": "+447822176717",
+    "email_address": "Elaine@gmail.com",
+    "address_id": {
+      "billing": [2],
+      "shipping": [25]
+    },
+    "recommendations": [
+      { "product_id": 47, "predicted_rating": 4.2 },
+      { "product_id": 12, "predicted_rating": 3.8 }
+    ]
+  },
+  {
+    "customer_id": 245,
+    "name": "Charlotte Sanchez",
+    "gender": "female",
+    "age": 26,
+    "phone_number": "+447864420064",
+    "email_address": "john.smith01@example.com",
+    "address_id": {
+      "billing": [8],
+      "shipping": [8]
+    },
+    "recommendations": [
+      { "product_id": 31, "predicted_rating": 3.9 },
+      { "product_id": 15, "predicted_rating": 4.1 }
+    ]
+  },
+  {
+    "customer_id": 367,
+    "name": "Andrew",
+    "gender": "male",
+    "age": 22,
+    "phone_number": "+447441140705",
+    "email_address": "sarah.jones22@example.co.uk",
+    "address_id": {
+      "billing": [21],
+      "shipping": [35]
+    },
+    "recommendations": [
+      { "product_id": 8, "predicted_rating": 4.5 },
+      { "product_id": 42, "predicted_rating": 3.7 }
+    ]
+  },
+  {
+    "customer_id": 489,
+    "name": "David Wilson",
+    "gender": "male",
+    "age": 34,
+    "phone_number": "+447933056855",
+    "email_address": "emily.davis78@yahoo.com",
+    "address_id": {
+      "billing": [19, 14],
+      "shipping": [19]
+    },
+    "recommendations": [
+      { "product_id": 23, "predicted_rating": 3.6 },
+      { "product_id": 36, "predicted_rating": 4.3 }
+    ]
+  },
+  {
+    "customer_id": 512,
+    "name": "Michael Johnson",
+    "gender": "male",
+    "age": 40,
+    "phone_number": "+447571076343",
+    "email_address": "david.wilson99@outlook.com",
+    "address_id": {
+      "billing": [3],
+      "shipping": [3]
+    },
+    "recommendations": [
+      { "product_id": 19, "predicted_rating": 4.0 },
+      { "product_id": 44, "predicted_rating": 3.5 }
+    ]
+  },
+  {
+    "customer_id": 634,
+    "name": "Jennifer Martin",
+    "gender": "female",
+    "age": 68,
+    "phone_number": "+447755071611",
+    "email_address": "Jennifer12@example.net",
+    "address_id": {
+      "billing": [9],
+      "shipping": [29]
+    },
+    "recommendations": [
+      { "product_id": 3, "predicted_rating": 3.8 },
+      { "product_id": 27, "predicted_rating": 4.4 }
+    ]
+  },
+  {
+    "customer_id": 756,
+    "name": "Brandon Adams",
+    "gender": "male",
+    "age": 48,
+    "phone_number": "+447360063892",
+    "email_address": "daniel.moore34@mail.com",
+    "address_id": {
+      "billing": [22],
+      "shipping": [32]
+    },
+    "recommendations": [
+      { "product_id": 50, "predicted_rating": 4.2 },
+      { "product_id": 16, "predicted_rating": 3.9 }
+    ]
+  },
+  {
+    "customer_id": 878,
+    "name": "Joshua Gonzalez",
+    "gender": "male",
+    "age": 47,
+    "phone_number": "+447522935607",
+    "email_address": "Gonzalez56@company.org",
+    "address_id": {
+      "billing": [20, 28],
+      "shipping": [20]
+    },
+    "recommendations": [
+      { "product_id": 38, "predicted_rating": 3.7 },
+      { "product_id": 7, "predicted_rating": 4.1 }
+    ]
+  },
+  {
+    "customer_id": 901,
+    "name": "Elizabeth Thompson",
+    "gender": "female",
+    "age": 53,
+    "phone_number": "+447777676784",
+    "email_address": "ryan.anderson88@example.org",
+    "address_id": {
+      "billing": [4],
+      "shipping": [4]
+    },
+    "recommendations": [
+      { "product_id": 29, "predicted_rating": 4.3 },
+      { "product_id": 41, "predicted_rating": 3.6 }
+    ]
+  },
+  {
+    "customer_id": 145,
+    "name": "Thomas Anderson",
+    "gender": "male",
+    "age": 28,
+    "phone_number": "+447417806590",
+    "email_address": "laura.thomas21@example.co.uk",
+    "address_id": {
+      "billing": [15],
+      "shipping": [15]
+    },
+    "recommendations": [
+      { "product_id": 13, "predicted_rating": 3.8 },
+      { "product_id": 33, "predicted_rating": 4.2 }
+    ]
+  },
+  {
+    "customer_id": 267,
+    "name": "Linda Garcia",
+    "gender": "female",
+    "age": 24,
+    "phone_number": "+441890232092",
+    "email_address": "Linda.Garcia65@gmail.com",
+    "address_id": {
+      "billing": [10],
+      "shipping": [33]
+    },
+    "recommendations": [
+      { "product_id": 45, "predicted_rating": 4.4 },
+      { "product_id": 21, "predicted_rating": 3.7 }
+    ]
+  },
+  {
+    "customer_id": 389,
+    "name": "James Smith",
+    "gender": "male",
+    "age": 31,
+    "phone_number": "+447399292916",
+    "email_address": "Smithwhite32@gmail.com",
+    "address_id": {
+      "billing": [11],
+      "shipping": [11, 17]
+    },
+    "recommendations": [
+      { "product_id": 4, "predicted_rating": 3.5 },
+      { "product_id": 39, "predicted_rating": 4.3 }
+    ]
+  },
+  {
+    "customer_id": 412,
+    "name": "Cameron Bennett",
+    "gender": "male",
+    "age": 27,
+    "phone_number": "+447520048455",
+    "email_address": "Bennett212@example.com",
+    "address_id": {
+      "billing": [6],
+      "shipping": [6]
+    },
+    "recommendations": [
+      { "product_id": 17, "predicted_rating": 4.1 },
+      { "product_id": 48, "predicted_rating": 3.8 }
+    ]
+  },
+  {
+    "customer_id": 534,
+    "name": "Susan Martinez",
+    "gender": "female",
+    "age": 41,
+    "phone_number": "+447520480036",
+    "email_address": "Martinez422@yahoo.com",
+    "address_id": {
+      "billing": [5],
+      "shipping": [32]
+    },
+    "recommendations": [
+      { "product_id": 25, "predicted_rating": 3.9 },
+      { "product_id": 10, "predicted_rating": 4.2 }
+    ]
+  },
+  {
+    "customer_id": 656,
+    "name": "Jessica Robinson",
+    "gender": "female",
+    "age": 36,
+    "phone_number": "+447624851821",
+    "email_address": "Jessica.Robinson@gmail.com",
+    "address_id": {
+      "billing": [12],
+      "shipping": [12]
+    },
+    "recommendations": [
+      { "product_id": 35, "predicted_rating": 4.0 },
+      { "product_id": 1, "predicted_rating": 3.6 }
+    ]
+  },
+  {
+    "customer_id": 778,
+    "name": "Jamie Howard",
+    "gender": "male",
+    "age": 34,
+    "phone_number": "+447535869866",
+    "email_address": "Howard123@gmail.com",
+    "address_id": {
+      "billing": [7],
+      "shipping": [28]
+    },
+    "recommendations": [
+      { "product_id": 46, "predicted_rating": 3.7 },
+      { "product_id": 20, "predicted_rating": 4.4 }
+    ]
+  },
+  {
+    "customer_id": 891,
+    "name": "Sarah Clark",
+    "gender": "female",
+    "age": 26,
+    "phone_number": "+447741560736",
+    "email_address": "Sarahsd@gmail.com",
+    "address_id": {
+      "billing": [16],
+      "shipping": [16]
+    },
+    "recommendations": [
+      { "product_id": 6, "predicted_rating": 4.2 },
+      { "product_id": 32, "predicted_rating": 3.5 }
+    ]
+  },
+  {
+    "customer_id": 923,
+    "name": "Karen Rodriguez",
+    "gender": "female",
+    "age": 19,
+    "phone_number": "+447837024724",
+    "email_address": "Rodriguez2321@outlook.com",
+    "address_id": {
+      "billing": [25, 32], 
+      "shipping": [25]
+    },
+    "recommendations": [
+      { "product_id": 28, "predicted_rating": 3.8 },
+      { "product_id": 43, "predicted_rating": 4.1 }
+    ]
+  },
+  {
+    "customer_id": 167,
+    "name": "Jason Roberts",
+    "gender": "male",
+    "age": 23,
+    "phone_number": "+447457258510",
+    "email_address": "Jason233@yahoo.com",
+    "address_id": {
+      "billing": [23],
+      "shipping": [28]
+    },
+    "recommendations": [
+      { "product_id": 11, "predicted_rating": 4.3 },
+      { "product_id": 37, "predicted_rating": 3.7 }
+    ]
+  },
+  {
+    "customer_id": 289,
+    "name": "Nancy Lewis",
+    "gender": "female",
+    "age": 20,
+    "phone_number": "+447488049633",
+    "email_address": "Nancy.lewis@gmail.com",
+    "address_id": {
+      "billing": [17],
+      "shipping": [12, 17]
+    },
+    "recommendations": [
+      { "product_id": 24, "predicted_rating": 3.6 },
+      { "product_id": 49, "predicted_rating": 4.2 }
+    ]
+  }
+]

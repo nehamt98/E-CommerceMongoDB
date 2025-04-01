@@ -1,0 +1,122 @@
+[
+  {
+    "product_id": 25,
+    "brand": "Apple",
+    "model": "A2633",
+    "color": "Midnight",
+    "features": [
+      "5G connectivity",
+      "128GB storage",
+      "12MP dual-camera",
+      "Super Retina XDR display"
+    ]
+  },
+  {
+    "product_id": 26,
+    "brand": "Samsung",
+    "model": "SM-G991B",
+    "color": "Phantom Gray",
+    "features": [
+      "5G connectivity",
+      "128GB storage",
+      "Triple camera",
+      "Dynamic AMOLED 2X display"
+    ]
+  },
+  {
+    "product_id": 27,
+    "brand": "Google",
+    "model": "GA02900-US",
+    "color": "Stormy Black",
+    "features": [
+      "Google Tensor chip",
+      "128GB storage",
+      "50MP wide camera",
+      "Android 12"
+    ]
+  },
+  {
+    "product_id": 28,
+    "brand": "OnePlus",
+    "model": "LE2115",
+    "color": "Arctic Sky",
+    "features": [
+      "Snapdragon 888",
+      "120Hz Fluid Display",
+      "128GB storage",
+      "48MP camera"
+    ]
+  },
+  {
+    "product_id": 29,
+    "brand": "Sony",
+    "model": "XQ-BC72",
+    "color": "Frosted Black",
+    "features": [
+      "4K HDR OLED display",
+      "120Hz refresh rate",
+      "256GB storage",
+      "Triple lens camera"
+    ]
+  },
+  {
+    "product_id": 30,
+    "brand": "Xiaomi",
+    "model": "M2011K2G",
+    "color": "Horizon Blue",
+    "features": [
+      "108MP main camera",
+      "120Hz AMOLED display",
+      "256GB storage",
+      "Snapdragon 888"
+    ]
+  },
+  {
+    "product_id": 31,
+    "brand": "Apple",
+    "model": "A2783",
+    "color": "Starlight",
+    "features": [
+      "5G connectivity",
+      "64GB storage",
+      "12MP camera",
+      "A15 Bionic chip"
+    ]
+  },
+  {
+    "product_id": 32,
+    "brand": "Samsung",
+    "model": "SM-F926B",
+    "color": "Phantom Black",
+    "features": [
+      "Foldable display",
+      "512GB storage",
+      "7.6-inch AMOLED",
+      "5G connectivity"
+    ]
+  },
+  {
+    "product_id": 33,
+    "brand": "Xiaomi",
+    "model": "M2101K6G",
+    "color": "Onyx Gray",
+    "features": [
+      "120Hz AMOLED display",
+      "108MP quad-camera",
+      "128GB storage",
+      "5000mAh battery"
+    ]
+  },
+  {
+    "product_id": 34,
+    "brand": "Oppo",
+    "model": "CPH2173",
+    "color": "Gloss Black",
+    "features": [
+      "Snapdragon 888",
+      "120Hz AMOLED display",
+      "50MP dual camera",
+      "256GB storage"
+    ]
+  }
+]

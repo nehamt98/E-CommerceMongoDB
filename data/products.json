@@ -1,0 +1,434 @@
+[
+    {
+        "product_id": 1,
+        "name": "Greatest Hits",
+        "category": "CDS",
+        "average_rating": "4.2"
+    },
+    {
+        "product_id": 2,
+        "name": "A Night at the Opera",
+        "category": "CDS",
+        "average_rating": "4.8"
+    },
+    {
+        "product_id": 3,
+        "name": "Thriller",
+        "category": "CDS",
+        "average_rating": "4.9"
+    },
+    {
+        "product_id": 4,
+        "name": "The Wall",
+        "category": "CDS",
+        "average_rating": "4.3"
+    },
+    {
+        "product_id": 5,
+        "name": "Back to Black",
+        "category": "CDS",
+        "average_rating": "3.9"
+    },
+    {
+        "product_id": 6,
+        "name": "Abbey Road",
+        "category": "CDS",
+        "average_rating": "4.7"
+    },
+    {
+        "product_id": 7,
+        "name": "Dark Side of the Moon",
+        "category": "CDS",
+        "average_rating": "4.6"
+    },
+    {
+        "product_id": 8,
+        "name": "Rumours",
+        "category": "CDS",
+        "average_rating": "4.1"
+    },
+    {
+        "product_id": 9,
+        "name": "Hotel California",
+        "category": "CDS",
+        "average_rating": "4.4"
+    },
+    {
+        "product_id": 10,
+        "name": "Led Zeppelin IV",
+        "category": "CDS",
+        "average_rating": "4.5"
+    },
+    {
+        "product_id": 11,
+        "name": "Nevermind",
+        "category": "CDS",
+        "average_rating": "3.8"
+    },
+    {
+        "product_id": 12,
+        "name": "Born to Run",
+        "category": "CDS",
+        "average_rating": "4.0"
+    },
+    {
+        "product_id": 13,
+        "name": "To Kill a Mockingbird",
+        "category": "BOOK",
+        "average_rating": "4.9"
+    },
+    {
+        "product_id": 14,
+        "name": "1984",
+        "category": "BOOK",
+        "average_rating": "4.3"
+    },
+    {
+        "product_id": 15,
+        "name": "The Great Gatsby",
+        "category": "BOOK",
+        "average_rating": "3.9"
+    },
+    {
+        "product_id": 16,
+        "name": "Pride and Prejudice",
+        "category": "BOOK",
+        "average_rating": "4.6"
+    },
+    {
+        "product_id": 17,
+        "name": "Moby-Dick",
+        "category": "BOOK",
+        "average_rating": "3.7"
+    },
+    {
+        "product_id": 18,
+        "name": "War and Peace",
+        "category": "BOOK",
+        "average_rating": "4.2"
+    },
+    {
+        "product_id": 19,
+        "name": "The Catcher in the Rye",
+        "category": "BOOK",
+        "average_rating": "3.8"
+    },
+    {
+        "product_id": 20,
+        "name": "Brave New World",
+        "category": "BOOK",
+        "average_rating": "4.1"
+    },
+    {
+        "product_id": 21,
+        "name": "Jane Eyre",
+        "category": "BOOK",
+        "average_rating": "4.4"
+    },
+    {
+        "product_id": 22,
+        "name": "Crime and Punishment",
+        "category": "BOOK",
+        "average_rating": "4.0"
+    },
+    {
+        "product_id": 23,
+        "name": "The Hobbit",
+        "category": "BOOK",
+        "average_rating": "4.8"
+    },
+    {
+        "product_id": 24,
+        "name": "Wuthering Heights",
+        "category": "BOOK",
+        "average_rating": "3.9"
+    },
+    {
+        "product_id": 25,
+        "name": "iPhone 13",
+        "category": "MOBILE_PHONES",
+        "average_rating": "4.5"
+    },
+    {
+        "product_id": 26,
+        "name": "Galaxy S21",
+        "category": "MOBILE_PHONES",
+        "average_rating": "4.3"
+    },
+    {
+        "product_id": 27,
+        "name": "Pixel 6",
+        "category": "MOBILE_PHONES",
+        "average_rating": "4.1"
+    },
+    {
+        "product_id": 28,
+        "name": "OnePlus 9",
+        "category": "MOBILE_PHONES",
+        "average_rating": "4.0"
+    },
+    {
+        "product_id": 29,
+        "name": "Xperia 1 III",
+        "category": "MOBILE_PHONES",
+        "average_rating": "3.8"
+    },
+    {
+        "product_id": 30,
+        "name": "Mi 11",
+        "category": "MOBILE_PHONES",
+        "average_rating": "3.9"
+    },
+    {
+        "product_id": 31,
+        "name": "iPhone SE (2022)",
+        "category": "MOBILE_PHONES",
+        "average_rating": "4.2"
+    },
+    {
+        "product_id": 32,
+        "name": "Galaxy Z Fold3",
+        "category": "MOBILE_PHONES",
+        "average_rating": "4.4"
+    },
+    {
+        "product_id": 33,
+        "name": "Redmi Note 10 Pro",
+        "category": "MOBILE_PHONES",
+        "average_rating": "3.7"
+    },
+    {
+        "product_id": 34,
+        "name": "Oppo Find X3 Pro",
+        "category": "MOBILE_PHONES",
+        "average_rating": "3.9"
+    },
+    {
+        "product_id": 35,
+        "name": "Dyson V11 Vacuum Cleaner",
+        "category": "HOME_APPLIANCES",
+        "average_rating": "4.6"
+    },
+    {
+        "product_id": 36,
+        "name": "Samsung RT29 Refrigerator",
+        "category": "HOME_APPLIANCES",
+        "average_rating": "4.2"
+    },
+    {
+        "product_id": 37,
+        "name": "Panasonic NN-SN936 Microwave Oven",
+        "category": "HOME_APPLIANCES",
+        "average_rating": "3.8"
+    },
+    {
+        "product_id": 38,
+        "name": "LG Front Load Washing Machine",
+        "category": "HOME_APPLIANCES",
+        "average_rating": "4.3"
+    },
+    {
+        "product_id": 39,
+        "name": "Philips HD9252 Air Fryer",
+        "category": "HOME_APPLIANCES",
+        "average_rating": "4.1"
+    },
+    {
+        "product_id": 40,
+        "name": "Bosch Series 4 Dishwasher",
+        "category": "HOME_APPLIANCES",
+        "average_rating": "4.4"
+    },
+    {
+        "product_id": 41,
+        "name": "Sony Bravia 55-inch TV",
+        "category": "HOME_APPLIANCES",
+        "average_rating": "4.5"
+    },
+    {
+        "product_id": 42,
+        "name": "Breville Barista Express Coffee Machine",
+        "category": "HOME_APPLIANCES",
+        "average_rating": "4.2"
+    },
+    {
+        "product_id": 43,
+        "name": "Instant Pot Duo 7-in-1 Cooker",
+        "category": "HOME_APPLIANCES",
+        "average_rating": "4.3"
+    },
+    {
+        "product_id": 44,
+        "name": "Haier Chest Freezer",
+        "category": "HOME_APPLIANCES",
+        "average_rating": "3.9"
+    },
+    {
+        "product_id": 45,
+        "name": "Organic Gala Apples",
+        "category": "FRESH_PRODUCTS",
+        "average_rating": "4.1"
+    },
+    {
+        "product_id": 46,
+        "name": "Organic Bananas",
+        "category": "FRESH_PRODUCTS",
+        "average_rating": "4.4"
+    },
+    {
+        "product_id": 47,
+        "name": "Organic Strawberries",
+        "category": "FRESH_PRODUCTS",
+        "average_rating": "4.5"
+    },
+    {
+        "product_id": 48,
+        "name": "Baby Carrots",
+        "category": "FRESH_PRODUCTS",
+        "average_rating": "4.2"
+    },
+    {
+        "product_id": 49,
+        "name": "Cherry Tomatoes",
+        "category": "FRESH_PRODUCTS",
+        "average_rating": "4.3"
+    },
+    {
+        "product_id": 50,
+        "name": "Ripe Mangoes",
+        "category": "FRESH_PRODUCTS",
+        "average_rating": "4.6"
+    },
+    {
+        "product_id": 51,
+        "name": "Fresh Green Beans",
+        "category": "FRESH_PRODUCTS",
+        "average_rating": "4.7"
+    },
+    {
+        "product_id": 52,
+        "name": "Red Apples",
+        "category": "FRESH_PRODUCTS",
+        "average_rating": "4.8"
+    },
+    {
+        "product_id": 53,
+        "name": "Fresh Spinach",
+        "category": "FRESH_PRODUCTS",
+        "average_rating": "4.9"
+    },
+    {
+        "product_id": 54,
+        "name": "Freshly Baked Croissants",
+        "category": "FRESH_PRODUCTS",
+        "average_rating": "4.0"
+    },
+    {
+        "product_id": 55,
+        "name": "Artisanal Sourdough Bread",
+        "category": "FRESH_PRODUCTS",
+        "average_rating": "4.1"
+    },
+    {
+        "product_id": 56,
+        "name": "Decadent Chocolate Cake",
+        "category": "FRESH_PRODUCTS",
+        "average_rating": "4.2"
+    },
+    {
+        "product_id": 57,
+        "name": "Fresh Fruit Tarts",
+        "category": "FRESH_PRODUCTS",
+        "average_rating": "4.3"
+    },
+    {
+        "product_id": 58,
+        "name": "Cinnamon Swirl Buns",
+        "category": "FRESH_PRODUCTS",
+        "average_rating": "4.4"
+    },
+    {
+        "product_id": 59,
+        "name": "Blueberry Muffins",
+        "category": "FRESH_PRODUCTS",
+        "average_rating": "4.5"
+    },
+    {
+        "product_id": 60,
+        "name": "Chocolate Chip Cookies",
+        "category": "FRESH_PRODUCTS",
+        "average_rating": "4.5"
+    },
+    {
+        "product_id": 61,
+        "name": "Cinnamon Rolls",
+        "category": "FRESH_PRODUCTS",
+        "average_rating": "4.5"
+    },
+    {
+        "product_id": 62,
+        "name": "Lemon Pound Cake",
+        "category": "FRESH_PRODUCTS",
+        "average_rating": "4.5"
+    },
+    {
+        "product_id": 63,
+        "name": "Apple Pie",
+        "category": "FRESH_PRODUCTS",
+        "average_rating": "4.5"
+    },
+    {
+        "product_id": 64,
+        "name": "Iced Caramel Macchiato",
+        "category": "FRESH_PRODUCTS",
+        "average_rating": "4.5"
+    },
+    {
+        "product_id": 65,
+        "name": "Matcha Green Tea Latte",
+        "category": "FRESH_PRODUCTS",
+        "average_rating": "4.5"
+    },
+    {
+        "product_id": 66,
+        "name": "Mango Pineapple Smoothie",
+        "category": "FRESH_PRODUCTS",
+        "average_rating": "4.5"
+    },
+    {
+        "product_id": 67,
+        "name": "Strawberry Lemonade",
+        "category": "FRESH_PRODUCTS",
+        "average_rating": "4.5"
+    },
+    {
+        "product_id": 68,
+        "name": "Peach Iced Tea",
+        "category": "FRESH_PRODUCTS",
+        "average_rating": "4.5"
+    },
+    {
+        "product_id": 69,
+        "name": "Cranberry Juice",
+        "category": "FRESH_PRODUCTS",
+        "average_rating": "4.5"
+    },
+    {
+        "product_id": 70,
+        "name": "Ginger Ale",
+        "category": "FRESH_PRODUCTS",
+        "average_rating": "4.5"
+    },
+    {
+        "product_id": 71,
+        "name": "Pomegranate Juice",
+        "category": "FRESH_PRODUCTS",
+        "average_rating": "4.5"
+    },
+    {
+        "product_id": 72,
+        "name": "Iced Coffee",
+        "category": "FRESH_PRODUCTS",
+        "average_rating": "4.5"
+    }
+]

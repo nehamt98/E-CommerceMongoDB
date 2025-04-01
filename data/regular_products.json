@@ -1,0 +1,574 @@
+[
+    {
+        "product_id": 1,
+        "category": "CDs",
+        "description": "A compilation of the best hits by The Beatles.",
+        "dimensions": {
+          "length": 14.0,
+          "width": 12.5,
+          "height": 1.0
+        },
+        "weight": 0.15,
+        "cost_price": 6.50,
+        "selling_price": 14.50
+    },
+    {
+        "product_id": 2,
+        "category": "CDs",
+        "description": "Classic album by Queen featuring iconic tracks like 'Bohemian Rhapsody'.",
+        "dimensions": {
+          "length": 14.0,
+          "width": 12.5,
+          "height": 1.0
+        },
+        "weight": 0.15,
+        "cost_price": 7.00,
+        "selling_price": 15.00
+    },
+    {
+        "product_id": 3,
+        "category": "CDs",
+        "description": "Best-selling album by Michael Jackson.",
+        "dimensions": {
+          "length": 14.0,
+          "width": 12.5,
+          "height": 1.0
+        },
+        "weight": 0.15,
+        "cost_price": 7.00,
+        "selling_price": 15.00
+    },
+    {
+        "product_id": 4,
+        "category": "CDs",
+        "description": "Iconic rock opera album by Pink Floyd.",
+        "dimensions": {
+          "length": 14.0,
+          "width": 12.5,
+          "height": 1.0
+        },
+        "weight": 0.15,
+        "cost_price": 8.00,
+        "selling_price": 16.00
+    },
+    {
+        "product_id": 5,
+        "category": "CDs",
+        "description": "Album by Amy Winehouse with soulful tracks.",
+        "dimensions": {
+          "length": 14.0,
+          "width": 12.5,
+          "height": 1.0
+        },
+        "weight": 0.16,
+        "cost_price": 6.50,
+        "selling_price": 14.00
+    },
+    {
+        "product_id": 6,
+        "category": "CDs",
+        "description": "Classic album by The Beatles featuring timeless tracks.",
+        "dimensions": {
+          "length": 14.0,
+          "width": 12.5,
+          "height": 1.0
+        },
+        "weight": 0.15,
+        "cost_price": 7.50,
+        "selling_price": 15.50
+    },
+    {
+        "product_id": 7,
+        "category": "CDs",
+        "description": "Legendary album by Pink Floyd with iconic tracks like 'Time' and 'Money'.",
+        "dimensions": {
+          "length": 14.0,
+          "width": 12.5,
+          "height": 1.0
+        },
+        "weight": 0.15,
+        "cost_price": 7.80,
+        "selling_price": 15.80
+    },
+    {
+        "product_id": 8,
+        "category": "CDs",
+        "description": "Critically acclaimed album by Fleetwood Mac featuring timeless hits.",
+        "dimensions": {
+          "length": 14.0,
+          "width": 12.5,
+          "height": 1.0
+        },
+        "weight": 0.15,
+        "cost_price": 7.00,
+        "selling_price": 15.00
+    },
+    {
+        "product_id": 9,
+        "category": "CDs",
+        "description": "Classic album by Eagles featuring the iconic track 'Hotel California'.",
+        "dimensions": {
+          "length": 14.0,
+          "width": 12.5,
+          "height": 1.0
+        },
+        "weight": 0.15,
+        "cost_price": 7.20,
+        "selling_price": 15.20
+    },
+    {
+        "product_id": 10,
+        "category": "CDs",
+        "description": "Iconic album by Led Zeppelin featuring the legendary track 'Stairway to Heaven'.",
+        "dimensions": {
+          "length": 14.0,
+          "width": 12.5,
+          "height": 1.0
+        },
+        "weight": 0.15,
+        "cost_price": 7.50,
+        "selling_price": 15.50
+    },
+    {
+        "product_id": 11,
+        "category": "CDs",
+        "description": "Groundbreaking album by Nirvana featuring hits like 'Smells Like Teen Spirit'.",
+        "dimensions": {
+          "length": 14.0,
+          "width": 12.5,
+          "height": 1.0
+        },
+        "weight": 0.15,
+        "cost_price": 7.80,
+        "selling_price": 15.80
+    },
+    {
+        "product_id": 12,
+        "category": "CDs",
+        "description": "Classic rock album by Bruce Springsteen featuring the hit 'Born to Run'.",
+        "dimensions": {
+          "length": 14.0,
+          "width": 12.5,
+          "height": 1.0
+        },
+        "weight": 0.15,
+        "cost_price": 7.50,
+        "selling_price": 15.50
+    },
+    {
+        "product_id": 13,
+        "category": "Books",
+        "description": "Classic novel by Harper Lee.",
+        "dimensions": {
+          "length": 20.0,
+          "width": 13.0,
+          "height": 2.5
+        },
+        "weight": 0.5,
+        "cost_price": 5.00,
+        "selling_price": 10.00
+    },
+    {
+        "product_id": 14,
+        "category": "Books",
+        "description": "Dystopian novel by George Orwell depicting a totalitarian regime.",
+        "dimensions": {
+          "length": 19.0,
+          "width": 12.0,
+          "height": 1.8
+        },
+        "weight": 0.4,
+        "cost_price": 5.00,
+        "selling_price": 9.50
+    },
+    {
+        "product_id": 15,
+        "category": "Books",
+        "description": "Famous novel by F. Scott Fitzgerald.",
+        "dimensions": {
+          "length": 19.0,
+          "width": 12.0,
+          "height": 1.5
+        },
+        "weight": 0.4,
+        "cost_price": 4.50,
+        "selling_price": 9.00
+    },
+    {
+        "product_id": 16,
+        "category": "Books",
+        "description": "Classic novel by Jane Austen exploring themes of love and social standing.",
+        "dimensions": {
+          "length": 20.0,
+          "width": 13.0,
+          "height": 2.0
+        },
+        "weight": 0.45,
+        "cost_price": 5.20,
+        "selling_price": 10.20
+    },
+    {
+        "product_id": 17,
+        "category": "Books",
+        "description": "Epic novel by Herman Melville about Captain Ahab's quest for the white whale.",
+        "dimensions": {
+          "length": 20.0,
+          "width": 13.0,
+          "height": 3.0
+        },
+        "weight": 0.6,
+        "cost_price": 5.50,
+        "selling_price": 10.50
+    },
+    {
+        "product_id": 18,
+        "category": "Books",
+        "description": "Historical novel by Leo Tolstoy depicting Russian society during the Napoleonic era.",
+        "dimensions": {
+          "length": 22.0,
+          "width": 15.0,
+          "height": 5.0
+        },
+        "weight": 1.2,
+        "cost_price": 6.00,
+        "selling_price": 12.00
+    },
+    {
+        "product_id": 19,
+        "category": "Books",
+        "description": "Classic novel by J.D. Salinger about teenage alienation and rebellion.",
+        "dimensions": {
+          "length": 20.0,
+          "width": 13.0,
+          "height": 2.0
+        },
+        "weight": 0.4,
+        "cost_price": 5.00,
+        "selling_price": 10.00
+    },
+    {
+        "product_id": 20,
+        "category": "Books",
+        "description": "Dystopian novel by Aldous Huxley exploring a technologically advanced future.",
+        "dimensions": {
+          "length": 19.0,
+          "width": 12.0,
+          "height": 2.0
+        },
+        "weight": 0.4,
+        "cost_price": 5.30,
+        "selling_price": 10.30
+    },
+    {
+        "product_id": 21,
+        "category": "Books",
+        "description": "Classic novel by Charlotte Brontë exploring themes of love, independence, and morality.",
+        "dimensions": {
+          "length": 20.0,
+          "width": 13.0,
+          "height": 2.5
+        },
+        "weight": 0.45,
+        "cost_price": 5.40,
+        "selling_price": 10.40
+    },
+    {
+        "product_id": 22,
+        "category": "Books",
+        "description": "A psychological novel by Fyodor Dostoevsky exploring morality and redemption.",
+        "dimensions": {
+          "length": 21.0,
+          "width": 14.0,
+          "height": 3.0
+        },
+        "weight": 0.6,
+        "cost_price": 5.60,
+        "selling_price": 10.60
+    },
+    {
+        "product_id": 23,
+        "category": "Books",
+        "description": "Fantasy novel by J.R.R. Tolkien about Bilbo Baggins' adventurous quest.",
+        "dimensions": {
+          "length": 20.0,
+          "width": 13.0,
+          "height": 2.5
+        },
+        "weight": 0.5,
+        "cost_price": 5.50,
+        "selling_price": 10.50
+    },
+    {
+        "product_id": 24,
+        "category": "Books",
+        "description": "Classic novel by Emily Brontë exploring themes of passion, revenge, and the moors.",
+        "dimensions": {
+          "length": 20.0,
+          "width": 13.0,
+          "height": 2.0
+        },
+        "weight": 0.45,
+        "cost_price": 5.20,
+        "selling_price": 10.20
+    },
+    {
+        "product_id": 25,
+        "category": "Mobile Phones",
+        "description": "Latest smartphone by Apple with 5G connectivity.",
+        "dimensions": {
+          "length": 14.6,
+          "width": 7.1,
+          "height": 0.7
+        },
+        "weight": 0.173,
+        "cost_price": 600.00,
+        "selling_price": 799.00
+    },
+    {
+        "product_id": 26,
+        "category": "Mobile Phones",
+        "description": "Flagship Samsung smartphone with AMOLED display.",
+        "dimensions": {
+          "length": 15.1,
+          "width": 7.1,
+          "height": 0.8
+        },
+        "weight": 0.169,
+        "cost_price": 500.00,
+        "selling_price": 749.00
+    },
+    {
+        "product_id": 27,
+        "category": "Mobile Phones",
+        "description": "Google's Tensor-powered smartphone with 50MP camera.",
+        "dimensions": {
+          "length": 15.8,
+          "width": 7.4,
+          "height": 0.9
+        },
+        "weight": 0.207,
+        "cost_price": 550.00,
+        "selling_price": 699.00
+    },
+    {
+        "product_id": 28,
+        "category": "Mobile Phones",
+        "description": "Flagship OnePlus smartphone with Snapdragon 888 processor and 120Hz display.",
+        "dimensions": {
+          "length": 16.0,
+          "width": 7.4,
+          "height": 0.8
+        },
+        "weight": 0.192,
+        "cost_price": 480.00,
+        "selling_price": 729.00
+    },
+    {
+        "product_id": 29,
+        "category": "Mobile Phones",
+        "description": "Sony's flagship smartphone with 4K HDR OLED display and triple lens camera.",
+        "dimensions": {
+          "length": 16.5,
+          "width": 7.1,
+          "height": 0.8
+        },
+        "weight": 0.186,
+        "cost_price": 620.00,
+        "selling_price": 849.00
+    },
+    {
+        "product_id": 30,
+        "category": "Mobile Phones",
+        "description": "Xiaomi flagship smartphone with 108MP camera and 120Hz AMOLED display.",
+        "dimensions": {
+          "length": 16.4,
+          "width": 7.4,
+          "height": 0.8
+        },
+        "weight": 0.196,
+        "cost_price": 450.00,
+        "selling_price": 699.00
+    },
+    {
+        "product_id": 31,
+        "category": "Mobile Phones",
+        "description": "Compact Apple smartphone with A15 Bionic chip and 5G connectivity.",
+        "dimensions": {
+          "length": 13.8,
+          "width": 6.7,
+          "height": 0.7
+        },
+        "weight": 0.144,
+        "cost_price": 400.00,
+        "selling_price": 529.00
+    },
+    {
+        "product_id": 32,
+        "category": "Mobile Phones",
+        "description": "Samsung's foldable smartphone with 7.6-inch AMOLED display and 5G connectivity.",
+        "dimensions": {
+          "length": 15.8,
+          "width": 6.7,
+          "height": 1.6
+        },
+        "weight": 0.271,
+        "cost_price": 950.00,
+        "selling_price": 1499.00
+    },
+    {
+        "product_id": 33,
+        "category": "Mobile Phones",
+        "description": "Xiaomi mid-range smartphone with 108MP quad-camera and 120Hz AMOLED display.",
+        "dimensions": {
+          "length": 16.4,
+          "width": 7.6,
+          "height": 0.9
+        },
+        "weight": 0.193,
+        "cost_price": 280.00,
+        "selling_price": 399.00
+    },
+    {
+        "product_id": 34,
+        "category": "Mobile Phones",
+        "description": "Oppo flagship smartphone with Snapdragon 888 and 120Hz AMOLED display.",
+        "dimensions": {
+          "length": 16.4,
+          "width": 7.3,
+          "height": 0.8
+        },
+        "weight": 0.193,
+        "cost_price": 550.00,
+        "selling_price": 799.00
+    },
+    {
+        "product_id": 35,
+        "category": "Home Appliances",
+        "description": "High-efficiency cordless vacuum cleaner.",
+        "dimensions": {
+          "length": 125.0,
+          "width": 25.0,
+          "height": 21.0
+        },
+        "weight": 3.1,
+        "cost_price": 300.00,
+        "selling_price": 450.00
+    },
+    {
+        "product_id": 36,
+        "category": "Home Appliances",
+        "description": "Top freezer refrigerator with 220V support.",
+        "dimensions": {
+          "length": 68.0,
+          "width": 65.0,
+          "height": 170.0
+        },
+        "weight": 45.0,
+        "cost_price": 400.00,
+        "selling_price": 600.00
+    },
+    {
+        "product_id": 37,
+        "category": "Home Appliances",
+        "description": "Countertop microwave with sleek black design.",
+        "dimensions": {
+          "length": 59.5,
+          "width": 39.0,
+          "height": 30.0
+        },
+        "weight": 17.0,
+        "cost_price": 120.00,
+        "selling_price": 200.00
+    },
+    {
+        "product_id": 38,
+        "category": "Home Appliances",
+        "description": "Efficient front-load washing machine with advanced features.",
+        "dimensions": {
+          "length": 60.0,
+          "width": 60.0,
+          "height": 85.0
+        },
+        "weight": 70.0,
+        "cost_price": 350.00,
+        "selling_price": 550.00
+    },
+    {
+        "product_id": 39,
+        "category": "Home Appliances",
+        "description": "Compact air fryer for healthy and oil-free cooking.",
+        "dimensions": {
+          "length": 35.0,
+          "width": 26.0,
+          "height": 28.0
+        },
+        "weight": 4.5,
+        "cost_price": 80.00,
+        "selling_price": 150.00
+    },
+    {
+        "product_id": 40,
+        "category": "Home Appliances",
+        "description": "Freestanding dishwasher with advanced cleaning technology.",
+        "dimensions": {
+          "length": 60.0,
+          "width": 60.0,
+          "height": 85.0
+        },
+        "weight": 52.0,
+        "cost_price": 300.00,
+        "selling_price": 500.00
+    },
+    {
+        "product_id": 41,
+        "category": "Home Appliances",
+        "description": "4K Ultra HD Smart TV with vibrant picture quality and HDR support.",
+        "dimensions": {
+          "length": 123.0,
+          "width": 71.0,
+          "height": 7.0
+        },
+        "weight": 17.5,
+        "cost_price": 600.00,
+        "selling_price": 900.00
+    },
+    {
+        "product_id": 42,
+        "category": "Home Appliances",
+        "description": "Espresso machine with integrated grinder for fresh, barista-quality coffee.",
+        "dimensions": {
+          "length": 31.0,
+          "width": 32.0,
+          "height": 40.0
+        },
+        "weight": 10.4,
+        "cost_price": 350.00,
+        "selling_price": 599.00
+    },
+    {
+        "product_id": 43,
+        "category": "Home Appliances",
+        "description": "Multi-use pressure cooker with 7 cooking functions for quick and easy meals.",
+        "dimensions": {
+          "length": 33.0,
+          "width": 31.0,
+          "height": 32.0
+        },
+        "weight": 5.4,
+        "cost_price": 80.00,
+        "selling_price": 149.00
+    },
+    {
+        "product_id": 44,
+        "category": "Home Appliances",
+        "description": "Spacious chest freezer ideal for long-term food storage.",
+        "dimensions": {
+          "length": 85.0,
+          "width": 55.0,
+          "height": 85.0
+        },
+        "weight": 32.0,
+        "cost_price": 250.00,
+        "selling_price": 399.00
+    }    
+]

@@ -1,0 +1,802 @@
+[
+    {
+        "id": 1,
+        "product_id": 1,
+        "date": "2024-12-15",
+        "quantity": 53,
+        "storage_warehouse_location": "M5 3FG",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 2,
+        "product_id": 1,
+        "date": "2024-12-17",
+        "quantity": 47,
+        "storage_warehouse_location": "M2 4WU",
+        "storage_warehouse_name": "Manchester Central Warehouse"
+    },
+    {
+        "id": 3,
+        "product_id": 2,
+        "date": "2024-12-17",
+        "quantity": 52,
+        "storage_warehouse_location": "M7 9TY",
+        "storage_warehouse_name": "Manchester North Warehouse"
+    },
+    {
+        "id": 4,
+        "product_id": 2,
+        "date": "2024-12-17",
+        "quantity": 86,
+        "storage_warehouse_location": "M4 6AL",
+        "storage_warehouse_name": "Manchester North Warehouse"
+    },
+    {
+        "id": 5,
+        "product_id": 3,
+        "date": "2024-12-14",
+        "quantity": 35,
+        "storage_warehouse_location": "M4 6AL",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 6,
+        "product_id": 3,
+        "date": "2024-12-13",
+        "quantity": 53,
+        "storage_warehouse_location": "M8 8LP",
+        "storage_warehouse_name": "Manchester North Warehouse"
+    },
+    {
+        "id": 7,
+        "product_id": 4,
+        "date": "2024-12-15",
+        "quantity": 28,
+        "storage_warehouse_location": "M1 1AE",
+        "storage_warehouse_name": "Manchester North Warehouse"
+    },
+    {
+        "id": 8,
+        "product_id": 4,
+        "date": "2024-12-15",
+        "quantity": 94,
+        "storage_warehouse_location": "M1 1AE",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 9,
+        "product_id": 5,
+        "date": "2024-12-16",
+        "quantity": 41,
+        "storage_warehouse_location": "M6 5GH",
+        "storage_warehouse_name": "Manchester North Warehouse"
+    },
+    {
+        "id": 10,
+        "product_id": 5,
+        "date": "2024-12-17",
+        "quantity": 54,
+        "storage_warehouse_location": "M3 5DF",
+        "storage_warehouse_name": "Manchester North Warehouse"
+    },
+    {
+        "id": 11,
+        "product_id": 6,
+        "date": "2024-12-13",
+        "quantity": 67,
+        "storage_warehouse_location": "M4 6AL",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 12,
+        "product_id": 6,
+        "date": "2024-12-14",
+        "quantity": 57,
+        "storage_warehouse_location": "M6 5GH",
+        "storage_warehouse_name": "Manchester North Warehouse"
+    },
+    {
+        "id": 13,
+        "product_id": 7,
+        "date": "2024-12-16",
+        "quantity": 11,
+        "storage_warehouse_location": "M1 1AE",
+        "storage_warehouse_name": "Manchester Central Warehouse"
+    },
+    {
+        "id": 14,
+        "product_id": 7,
+        "date": "2024-12-13",
+        "quantity": 79,
+        "storage_warehouse_location": "M8 8LP",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 15,
+        "product_id": 8,
+        "date": "2024-12-16",
+        "quantity": 74,
+        "storage_warehouse_location": "M4 6AL",
+        "storage_warehouse_name": "Manchester Central Warehouse"
+    },
+    {
+        "id": 16,
+        "product_id": 8,
+        "date": "2024-12-17",
+        "quantity": 52,
+        "storage_warehouse_location": "M8 8LP",
+        "storage_warehouse_name": "Manchester Central Warehouse"
+    },
+    {
+        "id": 17,
+        "product_id": 9,
+        "date": "2024-12-16",
+        "quantity": 52,
+        "storage_warehouse_location": "M9 7AB",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 18,
+        "product_id": 9,
+        "date": "2024-12-17",
+        "quantity": 74,
+        "storage_warehouse_location": "M1 1AE",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 19,
+        "product_id": 10,
+        "date": "2024-12-14",
+        "quantity": 81,
+        "storage_warehouse_location": "M3 5DF",
+        "storage_warehouse_name": "Manchester Central Warehouse"
+    },
+    {
+        "id": 20,
+        "product_id": 10,
+        "date": "2024-12-15",
+        "quantity": 82,
+        "storage_warehouse_location": "M8 8LP",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 21,
+        "product_id": 11,
+        "date": "2024-12-13",
+        "quantity": 98,
+        "storage_warehouse_location": "M10 1XY",
+        "storage_warehouse_name": "Manchester Central Warehouse"
+    },
+    {
+        "id": 22,
+        "product_id": 11,
+        "date": "2024-12-17",
+        "quantity": 30,
+        "storage_warehouse_location": "M9 7AB",
+        "storage_warehouse_name": "Manchester Central Warehouse"
+    },
+    {
+        "id": 23,
+        "product_id": 12,
+        "date": "2024-12-16",
+        "quantity": 41,
+        "storage_warehouse_location": "M1 1AE",
+        "storage_warehouse_name": "Manchester Central Warehouse"
+    },
+    {
+        "id": 24,
+        "product_id": 12,
+        "date": "2024-12-14",
+        "quantity": 69,
+        "storage_warehouse_location": "M10 1XY",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 25,
+        "product_id": 13,
+        "date": "2024-12-15",
+        "quantity": 78,
+        "storage_warehouse_location": "M6 5GH",
+        "storage_warehouse_name": "Manchester Central Warehouse"
+    },
+    {
+        "id": 26,
+        "product_id": 13,
+        "date": "2024-12-16",
+        "quantity": 69,
+        "storage_warehouse_location": "M5 3FG",
+        "storage_warehouse_name": "Manchester Central Warehouse"
+    },
+    {
+        "id": 27,
+        "product_id": 14,
+        "date": "2024-12-14",
+        "quantity": 50,
+        "storage_warehouse_location": "M6 5GH",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 28,
+        "product_id": 14,
+        "date": "2024-12-15",
+        "quantity": 14,
+        "storage_warehouse_location": "M6 5GH",
+        "storage_warehouse_name": "Manchester North Warehouse"
+    },
+    {
+        "id": 29,
+        "product_id": 15,
+        "date": "2024-12-15",
+        "quantity": 99,
+        "storage_warehouse_location": "M7 9TY",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 30,
+        "product_id": 15,
+        "date": "2024-12-15",
+        "quantity": 18,
+        "storage_warehouse_location": "M6 5GH",
+        "storage_warehouse_name": "Manchester North Warehouse"
+    },
+    {
+        "id": 31,
+        "product_id": 16,
+        "date": "2024-12-13",
+        "quantity": 69,
+        "storage_warehouse_location": "M6 5GH",
+        "storage_warehouse_name": "Manchester North Warehouse"
+    },
+    {
+        "id": 32,
+        "product_id": 16,
+        "date": "2024-12-15",
+        "quantity": 57,
+        "storage_warehouse_location": "M5 3FG",
+        "storage_warehouse_name": "Manchester North Warehouse"
+    },
+    {
+        "id": 33,
+        "product_id": 17,
+        "date": "2024-12-15",
+        "quantity": 11,
+        "storage_warehouse_location": "M2 4WU",
+        "storage_warehouse_name": "Manchester Central Warehouse"
+    },
+    {
+        "id": 34,
+        "product_id": 17,
+        "date": "2024-12-14",
+        "quantity": 91,
+        "storage_warehouse_location": "M9 7AB",
+        "storage_warehouse_name": "Manchester Central Warehouse"
+    },
+    {
+        "id": 35,
+        "product_id": 18,
+        "date": "2024-12-13",
+        "quantity": 46,
+        "storage_warehouse_location": "M7 9TY",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 36,
+        "product_id": 18,
+        "date": "2024-12-15",
+        "quantity": 24,
+        "storage_warehouse_location": "M9 7AB",
+        "storage_warehouse_name": "Manchester North Warehouse"
+    },
+    {
+        "id": 37,
+        "product_id": 19,
+        "date": "2024-12-15",
+        "quantity": 12,
+        "storage_warehouse_location": "M4 6AL",
+        "storage_warehouse_name": "Manchester Central Warehouse"
+    },
+    {
+        "id": 38,
+        "product_id": 19,
+        "date": "2024-12-13",
+        "quantity": 48,
+        "storage_warehouse_location": "M9 7AB",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 39,
+        "product_id": 20,
+        "date": "2024-12-14",
+        "quantity": 36,
+        "storage_warehouse_location": "M3 5DF",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 40,
+        "product_id": 20,
+        "date": "2024-12-15",
+        "quantity": 70,
+        "storage_warehouse_location": "M10 1XY",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 41,
+        "product_id": 21,
+        "date": "2024-12-13",
+        "quantity": 10,
+        "storage_warehouse_location": "M9 7AB",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 42,
+        "product_id": 21,
+        "date": "2024-12-13",
+        "quantity": 81,
+        "storage_warehouse_location": "M10 1XY",
+        "storage_warehouse_name": "Manchester Central Warehouse"
+    },
+    {
+        "id": 43,
+        "product_id": 22,
+        "date": "2024-12-15",
+        "quantity": 79,
+        "storage_warehouse_location": "M3 5DF",
+        "storage_warehouse_name": "Manchester North Warehouse"
+    },
+    {
+        "id": 44,
+        "product_id": 22,
+        "date": "2024-12-14",
+        "quantity": 14,
+        "storage_warehouse_location": "M4 6AL",
+        "storage_warehouse_name": "Manchester Central Warehouse"
+    },
+    {
+        "id": 45,
+        "product_id": 23,
+        "date": "2024-12-16",
+        "quantity": 65,
+        "storage_warehouse_location": "M4 6AL",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 46,
+        "product_id": 23,
+        "date": "2024-12-16",
+        "quantity": 59,
+        "storage_warehouse_location": "M7 9TY",
+        "storage_warehouse_name": "Manchester Central Warehouse"
+    },
+    {
+        "id": 47,
+        "product_id": 24,
+        "date": "2024-12-16",
+        "quantity": 27,
+        "storage_warehouse_location": "M8 8LP",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 48,
+        "product_id": 24,
+        "date": "2024-12-15",
+        "quantity": 50,
+        "storage_warehouse_location": "M2 4WU",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 49,
+        "product_id": 25,
+        "date": "2024-12-16",
+        "quantity": 98,
+        "storage_warehouse_location": "M5 3FG",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 50,
+        "product_id": 25,
+        "date": "2024-12-15",
+        "quantity": 31,
+        "storage_warehouse_location": "M10 1XY",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 51,
+        "product_id": 26,
+        "date": "2024-12-14",
+        "quantity": 12,
+        "storage_warehouse_location": "M10 1XY",
+        "storage_warehouse_name": "Manchester Central Warehouse"
+    },
+    {
+        "id": 52,
+        "product_id": 26,
+        "date": "2024-12-14",
+        "quantity": 30,
+        "storage_warehouse_location": "M3 5DF",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 53,
+        "product_id": 27,
+        "date": "2024-12-15",
+        "quantity": 83,
+        "storage_warehouse_location": "M9 7AB",
+        "storage_warehouse_name": "Manchester North Warehouse"
+    },
+    {
+        "id": 54,
+        "product_id": 27,
+        "date": "2024-12-14",
+        "quantity": 48,
+        "storage_warehouse_location": "M5 3FG",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 55,
+        "product_id": 28,
+        "date": "2024-12-15",
+        "quantity": 67,
+        "storage_warehouse_location": "M7 9TY",
+        "storage_warehouse_name": "Manchester Central Warehouse"
+    },
+    {
+        "id": 56,
+        "product_id": 28,
+        "date": "2024-12-13",
+        "quantity": 55,
+        "storage_warehouse_location": "M8 8LP",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 57,
+        "product_id": 29,
+        "date": "2024-12-17",
+        "quantity": 88,
+        "storage_warehouse_location": "M9 7AB",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 58,
+        "product_id": 29,
+        "date": "2024-12-16",
+        "quantity": 18,
+        "storage_warehouse_location": "M2 4WU",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 59,
+        "product_id": 30,
+        "date": "2024-12-13",
+        "quantity": 44,
+        "storage_warehouse_location": "M3 5DF",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 60,
+        "product_id": 30,
+        "date": "2024-12-17",
+        "quantity": 65,
+        "storage_warehouse_location": "M9 7AB",
+        "storage_warehouse_name": "Manchester Central Warehouse"
+    },
+    {
+        "id": 61,
+        "product_id": 31,
+        "date": "2024-12-13",
+        "quantity": 66,
+        "storage_warehouse_location": "M5 3FG",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 62,
+        "product_id": 31,
+        "date": "2024-12-14",
+        "quantity": 64,
+        "storage_warehouse_location": "M9 7AB",
+        "storage_warehouse_name": "Manchester Central Warehouse"
+    },
+    {
+        "id": 63,
+        "product_id": 32,
+        "date": "2024-12-15",
+        "quantity": 92,
+        "storage_warehouse_location": "M6 5GH",
+        "storage_warehouse_name": "Manchester North Warehouse"
+    },
+    {
+        "id": 64,
+        "product_id": 32,
+        "date": "2024-12-16",
+        "quantity": 15,
+        "storage_warehouse_location": "M6 5GH",
+        "storage_warehouse_name": "Manchester North Warehouse"
+    },
+    {
+        "id": 65,
+        "product_id": 33,
+        "date": "2024-12-14",
+        "quantity": 47,
+        "storage_warehouse_location": "M9 7AB",
+        "storage_warehouse_name": "Manchester North Warehouse"
+    },
+    {
+        "id": 66,
+        "product_id": 33,
+        "date": "2024-12-14",
+        "quantity": 19,
+        "storage_warehouse_location": "M2 4WU",
+        "storage_warehouse_name": "Manchester North Warehouse"
+    },
+    {
+        "id": 67,
+        "product_id": 34,
+        "date": "2024-12-15",
+        "quantity": 23,
+        "storage_warehouse_location": "M5 3FG",
+        "storage_warehouse_name": "Manchester Central Warehouse"
+    },
+    {
+        "id": 68,
+        "product_id": 34,
+        "date": "2024-12-14",
+        "quantity": 55,
+        "storage_warehouse_location": "M7 9TY",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 69,
+        "product_id": 35,
+        "date": "2024-12-16",
+        "quantity": 28,
+        "storage_warehouse_location": "M4 6AL",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 70,
+        "product_id": 35,
+        "date": "2024-12-14",
+        "quantity": 34,
+        "storage_warehouse_location": "M10 1XY",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 71,
+        "product_id": 36,
+        "date": "2024-12-13",
+        "quantity": 71,
+        "storage_warehouse_location": "M6 5GH",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 72,
+        "product_id": 36,
+        "date": "2024-12-17",
+        "quantity": 10,
+        "storage_warehouse_location": "M3 5DF",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 73,
+        "product_id": 37,
+        "date": "2024-12-17",
+        "quantity": 15,
+        "storage_warehouse_location": "M7 9TY",
+        "storage_warehouse_name": "Manchester North Warehouse"
+    },
+    {
+        "id": 74,
+        "product_id": 37,
+        "date": "2024-12-17",
+        "quantity": 30,
+        "storage_warehouse_location": "M8 8LP",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 75,
+        "product_id": 38,
+        "date": "2024-12-15",
+        "quantity": 69,
+        "storage_warehouse_location": "M4 6AL",
+        "storage_warehouse_name": "Manchester Central Warehouse"
+    },
+    {
+        "id": 76,
+        "product_id": 38,
+        "date": "2024-12-15",
+        "quantity": 28,
+        "storage_warehouse_location": "M7 9TY",
+        "storage_warehouse_name": "Manchester North Warehouse"
+    },
+    {
+        "id": 77,
+        "product_id": 39,
+        "date": "2024-12-15",
+        "quantity": 24,
+        "storage_warehouse_location": "M8 8LP",
+        "storage_warehouse_name": "Manchester Central Warehouse"
+    },
+    {
+        "id": 78,
+        "product_id": 39,
+        "date": "2024-12-13",
+        "quantity": 47,
+        "storage_warehouse_location": "M10 1XY",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 79,
+        "product_id": 40,
+        "date": "2024-12-13",
+        "quantity": 55,
+        "storage_warehouse_location": "M4 6AL",
+        "storage_warehouse_name": "Manchester Central Warehouse"
+    },
+    {
+        "id": 80,
+        "product_id": 40,
+        "date": "2024-12-13",
+        "quantity": 84,
+        "storage_warehouse_location": "M3 5DF",
+        "storage_warehouse_name": "Manchester Central Warehouse"
+    },
+    {
+        "id": 81,
+        "product_id": 41,
+        "date": "2024-12-13",
+        "quantity": 66,
+        "storage_warehouse_location": "M5 3FG",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 82,
+        "product_id": 41,
+        "date": "2024-12-15",
+        "quantity": 75,
+        "storage_warehouse_location": "M3 5DF",
+        "storage_warehouse_name": "Manchester North Warehouse"
+    },
+    {
+        "id": 83,
+        "product_id": 42,
+        "date": "2024-12-14",
+        "quantity": 63,
+        "storage_warehouse_location": "M3 5DF",
+        "storage_warehouse_name": "Manchester Central Warehouse"
+    },
+    {
+        "id": 84,
+        "product_id": 42,
+        "date": "2024-12-13",
+        "quantity": 20,
+        "storage_warehouse_location": "M1 1AE",
+        "storage_warehouse_name": "Manchester Central Warehouse"
+    },
+    {
+        "id": 85,
+        "product_id": 43,
+        "date": "2024-12-17",
+        "quantity": 54,
+        "storage_warehouse_location": "M7 9TY",
+        "storage_warehouse_name": "Manchester North Warehouse"
+    },
+    {
+        "id": 86,
+        "product_id": 43,
+        "date": "2024-12-15",
+        "quantity": 98,
+        "storage_warehouse_location": "M8 8LP",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 87,
+        "product_id": 44,
+        "date": "2024-12-16",
+        "quantity": 83,
+        "storage_warehouse_location": "M4 6AL",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 88,
+        "product_id": 44,
+        "date": "2024-12-14",
+        "quantity": 91,
+        "storage_warehouse_location": "M10 1XY",
+        "storage_warehouse_name": "Manchester North Warehouse"
+    },
+    {
+        "id": 89,
+        "product_id": 45,
+        "date": "2024-12-13",
+        "quantity": 100,
+        "storage_warehouse_location": "M9 7AB",
+        "storage_warehouse_name": "Manchester Central Warehouse"
+    },
+    {
+        "id": 90,
+        "product_id": 45,
+        "date": "2024-12-14",
+        "quantity": 73,
+        "storage_warehouse_location": "M6 5GH",
+        "storage_warehouse_name": "Manchester North Warehouse"
+    },
+    {
+        "id": 91,
+        "product_id": 46,
+        "date": "2024-12-16",
+        "quantity": 35,
+        "storage_warehouse_location": "M10 1XY",
+        "storage_warehouse_name": "Manchester North Warehouse"
+    },
+    {
+        "id": 92,
+        "product_id": 46,
+        "date": "2024-12-15",
+        "quantity": 55,
+        "storage_warehouse_location": "M7 9TY",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 93,
+        "product_id": 47,
+        "date": "2024-12-13",
+        "quantity": 91,
+        "storage_warehouse_location": "M1 1AE",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 94,
+        "product_id": 47,
+        "date": "2024-12-17",
+        "quantity": 42,
+        "storage_warehouse_location": "M10 1XY",
+        "storage_warehouse_name": "Manchester Central Warehouse"
+    },
+    {
+        "id": 95,
+        "product_id": 48,
+        "date": "2024-12-15",
+        "quantity": 45,
+        "storage_warehouse_location": "M8 8LP",
+        "storage_warehouse_name": "Manchester North Warehouse"
+    },
+    {
+        "id": 96,
+        "product_id": 48,
+        "date": "2024-12-15",
+        "quantity": 98,
+        "storage_warehouse_location": "M2 4WU",
+        "storage_warehouse_name": "Manchester North Warehouse"
+    },
+    {
+        "id": 97,
+        "product_id": 49,
+        "date": "2024-12-17",
+        "quantity": 37,
+        "storage_warehouse_location": "M4 6AL",
+        "storage_warehouse_name": "Manchester South Warehouse"
+    },
+    {
+        "id": 98,
+        "product_id": 49,
+        "date": "2024-12-16",
+        "quantity": 77,
+        "storage_warehouse_location": "M2 4WU",
+        "storage_warehouse_name": "Manchester Central Warehouse"
+    },
+    {
+        "id": 99,
+        "product_id": 50,
+        "date": "2024-12-13",
+        "quantity": 14,
+        "storage_warehouse_location": "M6 5GH",
+        "storage_warehouse_name": "Manchester Central Warehouse"
+    },
+    {
+        "id": 100,
+        "product_id": 50,
+        "date": "2024-12-16",
+        "quantity": 65,
+        "storage_warehouse_location": "M3 5DF",
+        "storage_warehouse_name": "Manchester Central Warehouse"
+    }
+]

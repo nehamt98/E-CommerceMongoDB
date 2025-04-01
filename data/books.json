@@ -1,0 +1,86 @@
+[
+  {
+    "product_id": 13,
+    "author": "Harper Lee",
+    "publisher": "J.B. Lippincott & Co.",
+    "publication_year": 1960,
+    "isbn": "978-0061120084"
+  },
+  {
+    "product_id": 14,
+    "author": "George Orwell",
+    "publisher": "Secker & Warburg",
+    "publication_year": 1949,
+    "isbn": "978-0451524935"
+  },
+  {
+    "product_id": 15,
+    "author": "F. Scott Fitzgerald",
+    "publisher": "Charles Scribner's Sons",
+    "publication_year": 1925,
+    "isbn": "978-0743273565"
+  },
+  {
+    "product_id": 16,
+    "author": "Jane Austen",
+    "publisher": "T. Egerton",
+    "publication_year": 1813,
+    "isbn": "978-1503290563"
+  },
+  {
+    "product_id": 17,
+    "author": "Herman Melville",
+    "publisher": "Harper & Brothers",
+    "publication_year": 1851,
+    "isbn": "978-1503280786"
+  },
+  {
+    "product_id": 18,
+    "author": "Leo Tolstoy",
+    "publisher": "The Russian Messenger",
+    "publication_year": 1869,
+    "isbn": "978-1420958613"
+  },
+  {
+    "product_id": 19,
+    "author": "J.D. Salinger",
+    "publisher": "Little, Brown and Company",
+    "publication_year": 1951,
+    "isbn": "978-0316769488"
+  },
+  {
+    "product_id": 20,
+    "author": "Aldous Huxley",
+    "publisher": "Chatto & Windus",
+    "publication_year": 1932,
+    "isbn": "978-0060850524"
+  },
+  {
+    "product_id": 21,
+    "author": "Charlotte Brontë",
+    "publisher": "Smith, Elder & Co.",
+    "publication_year": 1847,
+    "isbn": "978-0141441146"
+  },
+  {
+    "product_id": 22,
+    "author": "Fyodor Dostoevsky",
+    "publisher": "The Russian Messenger",
+    "publication_year": 1866,
+    "isbn": "978-0143107637"
+  },
+  {
+    "product_id": 23,
+    "author": "J.R.R. Tolkien",
+    "publisher": "George Allen & Unwin",
+    "publication_year": 1937,
+    "isbn": "978-0547928227"
+  },
+  {
+    "product_id": 24,
+    "author": "Emily Brontë",
+    "publisher": "Thomas Cautley Newby",
+    "publication_year": 1847,
+    "isbn": "978-0141439556"
+  }
+]

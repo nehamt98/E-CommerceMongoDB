@@ -1,0 +1,226 @@
+[
+    {
+        "partner_id": 1,
+        "name": "John Smith",
+        "gender": "Male",
+        "status": "Active",
+        "location": {
+            "latitude": 53.488518,
+            "longitude": -2.162131
+        },
+        "rating": 4,
+        "on_delivery_errand": false,
+        "last_delivery_date": "2024-12-27",
+        "last_payout_status": "Paid"
+    },
+    {
+        "partner_id": 2,
+        "name": "Emily Davis",
+        "gender": "Male",
+        "status": "Active",
+        "location": {
+            "latitude": 53.410234,
+            "longitude": -2.283546
+        },
+        "rating": 5,
+        "on_delivery_errand": true,
+        "last_delivery_date": "2024-12-16",
+        "last_payout_status": "Failed"
+    },
+    {
+        "partner_id": 3,
+        "name": "Michael Brown",
+        "gender": "Female",
+        "status": "Active",
+        "location": {
+            "latitude": 53.544093,
+            "longitude": -2.23064
+        },
+        "rating": 41,
+        "on_delivery_errand": false,
+        "last_delivery_date": "2025-01-01",
+        "last_payout_status": "Paid"
+    },
+    {
+        "partner_id": 4,
+        "name": "Sarah Wilson",
+        "gender": "Male",
+        "status": "Idle",
+        "location": {
+            "latitude": 53.532951,
+            "longitude": -2.32004
+        },
+        "rating": 3,
+        "on_delivery_errand": true,
+        "last_delivery_date": "2024-12-27",
+        "last_payout_status": "Pending"
+    },
+    {
+        "partner_id": 5,
+        "name": "David Clark",
+        "gender": "Male",
+        "status": "Active",
+        "location": {
+            "latitude": 53.49046,
+            "longitude": -2.208992
+        },
+        "rating": 4,
+        "on_delivery_errand": false,
+        "last_delivery_date": "2024-12-25",
+        "last_payout_status": "Paid"
+    },
+    {
+        "partner_id": 6,
+        "name": "Olivia Taylor",
+        "gender": "Female",
+        "status": "Active",
+        "location": {
+            "latitude": 53.549023,
+            "longitude": -2.297447
+        },
+        "rating": 3,
+        "on_delivery_errand": true,
+        "last_delivery_date": "2025-01-01",
+        "last_payout_status": "Pending"
+    },
+    {
+        "partner_id": 7,
+        "name": "Emily Johnson",
+        "gender": "Female",
+        "status": "Active",
+        "location": {
+            "latitude": 53.513951,
+            "longitude": -2.33004
+        },
+        "rating": 4,
+        "on_delivery_errand": true,
+        "last_delivery_date": "2024-12-29",
+        "last_payout_status": "Pending"
+    },
+    {
+        "partner_id": 8,
+        "name": "Michael Brown",
+        "gender": "Male",
+        "status": "Active",
+        "location": {
+            "latitude": 53.525951,
+            "longitude": -2.34004
+        },
+        "rating": 3,
+        "on_delivery_errand": false,
+        "last_delivery_date": "2024-12-28",
+        "last_payout_status": "Paid"
+    },
+    {
+        "partner_id": 9,
+        "name": "Sarah Lee",
+        "gender": "Female",
+        "status": "Active",
+        "location": {
+            "latitude": 53.535951,
+            "longitude": -2.35004
+        },
+        "rating": 4,
+        "on_delivery_errand": true,
+        "last_delivery_date": "2025-01-02",
+        "last_payout_status": "Pending"
+    },
+    {
+        "partner_id": 10,
+        "name": "John Davis",
+        "gender": "Male",
+        "status": "Active",
+        "location": {
+            "latitude": 53.545951,
+            "longitude": -2.36004
+        },
+        "rating": 3,
+        "on_delivery_errand": false,
+        "last_delivery_date": "2024-12-30",
+        "last_payout_status": "Paid"
+    },
+    {
+        "partner_id": 11,
+        "name": "Jessica Martin",
+        "gender": "Female",
+        "status": "Active",
+        "location": {
+            "latitude": 53.555951,
+            "longitude": -2.37004
+        },
+        "rating": 4,
+        "on_delivery_errand": true,
+        "last_delivery_date": "2025-01-03",
+        "last_payout_status": "Pending"
+    },
+    {
+        "partner_id": 12,
+        "name": "Kevin White",
+        "gender": "Male",
+        "status": "Idle",
+        "location": {
+            "latitude": 53.565951,
+            "longitude": -2.38004
+        },
+        "rating": 3,
+        "on_delivery_errand": false,
+        "last_delivery_date": "2024-12-31",
+        "last_payout_status": "Paid"
+    },
+    {
+        "partner_id": 13,
+        "name": "Lisa Nguyen",
+        "gender": "Female",
+        "status": "Active",
+        "location": {
+            "latitude": 53.575951,
+            "longitude": -2.39004
+        },
+        "rating": 4,
+        "on_delivery_errand": true,
+        "last_delivery_date": "2025-01-04",
+        "last_payout_status": "Pending"
+    },
+    {
+        "partner_id": 14,
+        "name": "Brian Hall",
+        "gender": "Male",
+        "status": "Idle",
+        "location": {
+            "latitude": 53.585951,
+            "longitude": -2.40004
+        },
+        "rating": 3,
+        "on_delivery_errand": false,
+        "last_delivery_date": "2025-01-01",
+        "last_payout_status": "Paid"
+    },
+    {
+        "partner_id": 15,
+        "name": "Amanda Taylor",
+        "gender": "Female",
+        "status": "Active",
+        "location": {
+            "latitude": 53.595951,
+            "longitude": -2.41004
+        },
+        "rating": 4,
+        "on_delivery_errand": true,
+        "last_delivery_date": "2025-01-05",
+        "last_payout_status": "Pending"
+    },
+    {
+        "partner_id": 16,
+        "name": "Christopher Lewis",
+        "gender": "Male",
+        "status": "Idle",
+        "location": {
+            "latitude": 53.605951,
+            "longitude": -2.42004
+        },
+        "rating": 3,
+        "on_delivery_errand": false,
+        "last_delivery_date": "2025-01-02",
+        "last_payout_status": "Paid"
+    }
+]

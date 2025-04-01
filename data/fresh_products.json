@@ -1,0 +1,450 @@
+[
+  {
+    "product_id": 45,
+    "category": "Fruits and Vegetables",
+    "description": "Crisp and sweet organic gala apples.",
+    "dimensions": {
+      "length": 7.5,
+      "width": 7.5,
+      "height": 7.5
+    },
+    "weight_or_quantity": 1.5,
+    "expiry_date": "2024-12-01",
+    "country_of_origin": "UK",
+    "cost_price": 2.50,
+    "selling_price": 4.00,
+    "store_id": [1, 2, 6]
+  },
+  {
+    "product_id": 46,
+    "category": "Fruits and Vegetables",
+    "description": "Ripe and sweet organic bananas.",
+    "dimensions": {
+      "length": 20.0,
+      "width": 3.0,
+      "height": 2.0
+    },
+    "weight_or_quantity": 1.0,
+    "expiry_date": "2024-12-05",
+    "country_of_origin": "Ecuador",
+    "cost_price": 1.80,
+    "selling_price": 3.20,
+    "store_id": [1, 3, 4]
+  },
+  {
+    "product_id": 47,
+    "category": "Fruits and Vegetables",
+    "description": "Juicy and sweet organic strawberries.",
+    "dimensions": {
+      "length": 2.5,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "weight_or_quantity": 0.5,
+    "expiry_date": "2024-12-10",
+    "country_of_origin": "USA",
+    "cost_price": 3.00,
+    "selling_price": 5.00,
+    "store_id": [2, 5]
+  },
+  {
+    "product_id": 48,
+    "category": "Fruits and Vegetables",
+    "description": "Sweet and crunchy baby carrots.",
+    "dimensions": {
+      "length": 15.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "weight_or_quantity": 0.3,
+    "expiry_date": "2024-12-30",
+    "country_of_origin": "USA",
+    "cost_price": 1.50,
+    "selling_price": 2.50,
+    "store_id": [5]
+  },
+  {
+    "product_id": 49,
+    "category": "Fruits and Vegetables",
+    "description": "Juicy and flavorful cherry tomatoes.",
+    "dimensions": {
+      "length": 2.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "weight_or_quantity": 0.2,
+    "expiry_date": "2024-12-28",
+    "country_of_origin": "Spain",
+    "cost_price": 2.00,
+    "selling_price": 3.00,
+    "store_id": [1, 2, 6]
+  },
+  {
+    "product_id": 50,
+    "category": "Fruits and Vegetables",
+    "description": "Sweet and juicy ripe mangoes.",
+    "dimensions": {
+      "length": 15.0,
+      "width": 10.0,
+      "height": 7.0
+    },
+    "weight_or_quantity": 0.5,
+    "expiry_date": "2024-12-15",
+    "country_of_origin": "India",
+    "cost_price": 2.50,
+    "selling_price": 4.00,
+    "store_id": [3, 4]
+  },
+  {
+    "product_id": 51,
+    "category": "Fruits and Vegetables",
+    "description": "Crunchy and fresh green beans.",
+    "dimensions": {
+      "length": 15.0,
+      "width": 0.5,
+      "height": 0.5
+    },
+    "weight_or_quantity": 0.3,
+    "expiry_date": "2024-12-18",
+    "country_of_origin": "USA",
+    "cost_price": 1.25,
+    "selling_price": 2.25,
+    "store_id": [5]
+  },
+  {
+    "product_id": 52,
+    "category": "Fruits and Vegetables",
+    "description": "Juicy and crunchy red apples.",
+    "dimensions": {
+      "length": 7.0,
+      "width": 7.0,
+      "height": 7.0
+    },
+    "weight_or_quantity": 0.4,
+    "expiry_date": "2024-12-25",
+    "country_of_origin": "USA",
+    "cost_price": 1.75,
+    "selling_price": 2.75,
+    "store_id": [1, 2, 3, 4, 6]
+  },
+  {
+    "product_id": 53,
+    "category": "Fruits and Vegetables",
+    "description": "Fresh and nutritious spinach leaves.",
+    "dimensions": {
+      "length": 10.0,
+      "width": 7.0,
+      "height": 1.0
+    },
+    "weight_or_quantity": 0.2,
+    "expiry_date": "2024-12-27",
+    "country_of_origin": "USA",
+    "cost_price": 1.00,
+    "selling_price": 1.50,
+    "store_id": [5]
+  },
+  {
+    "product_id": 54,
+    "category": "Bakery",
+    "description": "Flaky and buttery freshly baked croissants, pack of 6.",
+    "dimensions": {
+      "length": 20.0,
+      "width": 15.0,
+      "height": 5.0
+    },
+    "weight_or_quantity": 0.8,
+    "expiry_date": "2024-12-20",
+    "country_of_origin": "UK",
+    "cost_price": 2.00,
+    "selling_price": 3.50,
+    "store_id": [6]
+  },
+  {
+    "product_id": 55,
+    "category": "Bakery",
+    "description": "Crusty and tangy artisanal sourdough bread, 1 loaf.",
+    "dimensions": {
+      "length": 30.0,
+      "width": 10.0,
+      "height": 8.0
+    },
+    "weight_or_quantity": 1.0,
+    "expiry_date": "2024-12-21",
+    "country_of_origin": "France",
+    "cost_price": 1.50,
+    "selling_price": 2.80,
+    "store_id": [3, 4]
+  },
+  {
+    "product_id": 56,
+    "category": "Bakery",
+    "description": "Moist and rich decadent chocolate cake, 8 inches.",
+    "dimensions": {
+      "length": 20.32, 
+      "width": 20.32,
+      "height": 7.0
+    },
+    "weight_or_quantity": 0.5,
+    "expiry_date": "2024-12-22",
+    "country_of_origin": "Greece",
+    "cost_price": 2.00,
+    "selling_price": 3.20,
+    "store_id": [1, 2]
+  },
+  {
+    "product_id": 57,
+    "category": "Bakery",
+    "description": "Sweet and tangy fresh fruit tarts, pack of 6.",
+    "dimensions": {
+      "length": 10.0,
+      "width": 8.0,
+      "height": 2.0
+    },
+    "weight_or_quantity": 0.2,
+    "expiry_date": "2024-12-23",
+    "country_of_origin": "UK",
+    "cost_price": 2.50,
+    "selling_price": 4.00,
+    "store_id": [1, 6]
+  },
+  {
+    "product_id": 58,
+    "category": "Bakery",
+    "description": "Soft and sweet cinnamon swirl buns, pack of 6.",
+    "dimensions": {
+      "length": 12.0,
+      "width": 9.0,
+      "height": 2.5
+    },
+    "weight_or_quantity": 0.25,
+    "expiry_date": "2024-12-24",
+    "country_of_origin": "France",
+    "cost_price": 2.00,
+    "selling_price": 3.50,
+    "store_id": [4, 6]
+  },
+  {
+    "product_id": 59,
+    "category": "Bakery",
+    "description": "Moist and fluffy blueberry muffins, pack of 6.",
+    "dimensions": {
+      "length": 10.0,
+      "width": 8.0,
+      "height": 3.0
+    },
+    "weight_or_quantity": 0.3,
+    "expiry_date": "2024-12-25",
+    "country_of_origin": "USA",
+    "cost_price": 2.50,
+    "selling_price": 4.00,
+    "store_id": [1, 2, 3, 4, 5, 6]
+  },
+  {
+    "product_id": 60,
+    "category": "Bakery",
+    "description": "Classic chocolate chip cookies, pack of 12.",
+    "dimensions": {
+      "length": 12.0,
+      "width": 10.0,
+      "height": 2.0
+    },
+    "weight_or_quantity": 0.4,
+    "expiry_date": "2024-12-26",
+    "country_of_origin": "USA",
+    "cost_price": 2.00,
+    "selling_price": 3.50,
+    "store_id": [1, 2, 3, 4, 5, 6]
+  },
+  {
+    "product_id": 61,
+    "category": "Bakery",
+    "description": "Warm and gooey cinnamon rolls, pack of 6.",
+    "dimensions": {
+      "length": 14.0,
+      "width": 10.0,
+      "height": 3.0
+    },
+    "weight_or_quantity": 0.5,
+    "expiry_date": "2024-12-27",
+    "country_of_origin": "USA",
+    "cost_price": 2.50,
+    "selling_price": 4.00,
+    "store_id": [1, 4, 5, 6]
+  },
+  {
+    "product_id": 62,
+    "category": "Bakery",
+    "description": "Zesty and moist lemon pound cake, 1 loaf.",
+    "dimensions": {
+      "length": 12.0,
+      "width": 5.0,
+      "height": 4.0
+    },
+    "weight_or_quantity": 0.6,
+    "expiry_date": "2024-12-28",
+    "country_of_origin": "USA",
+    "cost_price": 2.00,
+    "selling_price": 3.50,
+    "store_id": [1, 2, 3]
+  },
+  {
+    "product_id": 63,
+    "category": "Bakery",
+    "description": "Flaky and sweet apple pie, 9 inches.",
+    "dimensions": {
+      "length": 23.0,
+      "width": 23.0,   
+      "height": 4.0
+    },
+    "weight_or_quantity": 0.7,
+    "expiry_date": "2024-12-29",
+    "country_of_origin": "USA",
+    "cost_price": 2.50,
+    "selling_price": 4.00,
+    "store_id": [1, 2]
+  },
+  {
+    "product_id": 64,
+    "category": "Drinks",
+    "description": "Iced espresso with vanilla syrup and milk, topped with caramel drizzle.",
+    "dimensions": {
+      "length": 7.0,
+      "width": 7.0,
+      "height": 25.0
+    },
+    "weight_or_quantity": 0.5,
+    "expiry_date": "2024-12-25",
+    "country_of_origin": "Italy",
+    "cost_price": 2.50,
+    "selling_price": 4.00,
+    "store_id": [3, 5]
+  },
+  {
+    "product_id": 65,
+    "category": "Drinks",
+    "description": "Smooth and creamy matcha green tea with steamed milk.",
+    "dimensions": {
+      "length": 7.0,
+      "width": 7.0,
+      "height": 20.0
+    },
+    "weight_or_quantity": 0.4,
+    "expiry_date": "2024-12-26",
+    "country_of_origin": "Japan",
+    "cost_price": 2.00,
+    "selling_price": 3.50,
+    "store_id": [4, 6]
+  },
+  {
+    "product_id": 66,
+    "category": "Drinks",
+    "description": "Refreshing smoothie made with mango, pineapple, and yogurt.",
+    "dimensions": {
+      "length": 7.0,
+      "width": 7.0,
+      "height": 30.0
+    },
+    "weight_or_quantity": 0.6,
+    "expiry_date": "2024-12-27",
+    "country_of_origin": "Mexico",
+    "cost_price": 2.50,
+    "selling_price": 4.00,
+    "store_id": [5]
+  },
+  {
+    "product_id": 67,
+    "category": "Drinks",
+    "description": "Tangy and sweet lemonade with a burst of strawberry flavor.",
+    "dimensions": {
+      "length": 7.0,
+      "width": 7.0,
+      "height": 25.0
+    },
+    "weight_or_quantity": 0.5,
+    "expiry_date": "2024-12-28",
+    "country_of_origin": "USA",
+    "cost_price": 2.00,
+    "selling_price": 3.50,
+    "store_id": [1]
+  },
+  {
+    "product_id": 68,
+    "category": "Drinks",
+    "description": "Iced tea infused with the flavor of ripe peaches.",
+    "dimensions": {
+      "length": 7.0,
+      "width": 7.0,
+      "height": 25.0
+    },
+    "weight_or_quantity": 0.5,
+    "expiry_date": "2024-12-29",
+    "country_of_origin": "China",
+    "cost_price": 2.00,
+    "selling_price": 3.50,
+    "store_id": [2, 4, 5, 6]
+  },
+  {
+    "product_id": 69,
+    "category": "Drinks",
+    "description": "Tart and refreshing cranberry juice.",
+    "dimensions": {
+      "length": 6.0,
+      "width": 6.0,
+      "height": 15.0
+    },
+    "weight_or_quantity": 0.3,
+    "expiry_date": "2024-12-30",
+    "country_of_origin": "USA",
+    "cost_price": 1.75,
+    "selling_price": 2.75,
+    "store_id": [3]
+  },
+  {
+    "product_id": 70,
+    "category": "Drinks",
+    "description": "Spicy and fizzy ginger ale.",
+    "dimensions": {
+      "length": 6.5,
+      "width": 6.5,
+      "height": 18
+    },
+    "weight_or_quantity": 0.4,
+    "expiry_date": "2024-12-31",
+    "country_of_origin": "Canada",
+    "cost_price": 1.50,
+    "selling_price": 2.50,
+    "store_id": [5]
+  },
+  {
+    "product_id": 71,
+    "category": "Drinks",
+    "description": "Sweet and tangy pomegranate juice.",
+    "dimensions": {
+      "length": 6.0,
+      "width": 6.0,
+      "height": 15.0
+    },
+    "weight_or_quantity": 0.3,
+    "expiry_date": "2024-12-31",
+    "country_of_origin": "Turkey",
+    "cost_price": 2.25,
+    "selling_price": 3.25,
+    "store_id": [6]
+  },
+  {
+    "product_id": 72,
+    "category": "Drinks",
+    "description": "Rich and refreshing iced coffee.",
+    "dimensions": {
+      "length": 7.0,
+      "width": 7.0,
+      "height": 22.0
+    },
+    "weight_or_quantity": 0.5,
+    "expiry_date": "2024-12-31",
+    "country_of_origin": "Brazil",
+    "cost_price": 1.25,
+    "selling_price": 2.25,
+    "store_id": [4, 5]
+  }
+]

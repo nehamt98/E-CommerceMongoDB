@@ -1,0 +1,1722 @@
+[
+  {
+    "order_id": 1001,
+    "total_order_cost": 45.50,
+    "order_date":{ "$date":"2024-01-01T14:30:00"},
+    "customer_id": 123,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 2,
+        "quantity": 2
+      },
+      {
+        "item_no": 2, 
+        "product_id": 12,
+        "quantity": 1
+      }
+    ],
+    "delivery_time": { "$date":"2024-01-03T14:00:00"}
+  },
+  {
+    "order_id": 1002,
+    "total_order_cost": 450.00,
+    "order_date":{ "$date": "2024-01-04T09:15:00"}, 
+    "customer_id": 123,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 35,
+        "quantity": 1
+      }
+    ],
+    "delivery_time": { "$date":"2024-01-05T16:00:00"}
+  },
+  {
+    "order_id": 1003,
+    "total_order_cost": 24.50,
+    "order_date":{ "$date":"2024-01-07T16:45:00"},
+    "customer_id": 123,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 6,
+        "quantity": 1
+      },
+      {
+        "item_no": 2,
+        "product_id": 15,
+        "quantity": 1
+      }
+    ],
+    "delivery_time": { "$date":"2024-01-09T12:00:00"}
+  },
+  {
+    "order_id": 1004,
+    "total_order_cost": 799.00,
+    "order_date":{ "$date":"2024-01-10T11:20:00"},
+    "customer_id": 123,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 25,
+        "quantity": 1
+      }
+    ],
+    "delivery_time": { "$date":"2024-01-13T14:35:00"}
+  },
+  {
+    "order_id": 1005,
+    "total_order_cost": 308.00,
+    "order_date":{ "$date":"2024-01-13T13:10:00"},
+    "customer_id": 123,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 13,
+        "quantity": 1
+      },
+      {
+        "item_no": 2,
+        "product_id": 43,
+        "quantity": 2
+      }
+    ],
+    "delivery_time": { "$date":"2024-01-15T16:00:00"}
+  },
+  {
+    "order_id": 1006,
+    "total_order_cost": 547.00,
+    "order_date":{ "$date":"2024-01-16T10:30:00"},
+    "customer_id": 245,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 31,
+        "quantity": 1
+      },
+      {
+        "item_no": 2,
+        "product_id": 15,
+        "quantity": 2
+      }
+    ],
+    "delivery_time": { "$date":"2024-01-19T15:45:00"}
+  },
+  {
+    "order_id": 1007,
+    "total_order_cost": 729.00,
+    "order_date":{ "$date":"2024-01-19T15:45:00"},
+    "customer_id": 245,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 28,
+        "quantity": 1
+      }
+    ],
+    "delivery_time": { "$date":"2024-01-21T15:00:00"}
+  },
+  {
+    "order_id": 1008,
+    "total_order_cost": 1500.00,
+    "order_date":{ "$date":"2024-01-22T12:15:00"},
+    "customer_id": 245,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 41,
+        "quantity": 1
+     },
+      {
+        "item_no": 2,
+        "product_id": 36,
+        "quantity": 1
+     }
+    ],
+    "delivery_time": { "$date":"2024-01-24T15:30:00"}
+  },
+  {
+    "order_id": 1009,
+    "total_order_cost": 15.00,
+    "order_date":{ "$date":"2024-01-25T14:20:00"},
+    "customer_id": 245,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 3,
+        "quantity": 1
+     }
+    ],
+    "delivery_time": { "$date":"2024-01-05T16:00:00"}
+  },
+  {
+    "order_id": 1010,
+    "total_order_cost": 1497.00,
+    "order_date":{ "$date":"2024-01-28T16:30:00"},
+    "customer_id": 245,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 27,
+        "quantity": 1
+     },
+      {
+        "item_no": 2,
+        "product_id": 44,
+        "quantity": 2
+     }
+    ],
+   "delivery_time": { "$date":"2024-02-01T16:00:00"}
+  },
+  {
+    "order_id": 1011,
+    "total_order_cost": 629.00,
+    "order_date":{ "$date":"2024-01-31T10:45:00"},
+    "customer_id": 367,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 8,
+        "quantity": 2
+     },
+      {
+        "item_no": 2,
+        "product_id": 42,
+        "quantity": 1
+     }
+    ],
+    "delivery_time": { "$date":"2024-02-03T13:00:00"}
+  },
+  {
+    "order_id": 1012, 
+    "total_order_cost": 599.00,
+    "order_date":{ "$date":"2024-02-03T13:20:00"},
+    "customer_id": 367,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 42,
+        "quantity": 1
+     }
+    ],
+    "delivery_time": { "$date":"2024-02-05T13:40:00"}
+  },
+  {
+    "order_id": 1013,
+    "total_order_cost": 45.00,
+    "order_date": { "$date":"2024-02-06T15:30:00"},
+    "customer_id": 367,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 8,
+        "quantity": 3
+     }
+    ],
+    "delivery_time": { "$date":"2024-02-08T15:55:00"}
+  },
+  {
+    "order_id": 1014,
+    "total_order_cost": 1198.00,
+    "order_date":{ "$date": "2024-02-09T11:15:00"},
+    "customer_id": 367,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 42,
+        "quantity": 2
+     }
+    ],
+   "delivery_time": { "$date":"2024-02-11T15:30:00"}
+  },
+  {
+    "order_id": 1015,
+    "total_order_cost": 1213.00,
+    "order_date":{ "$date": "2024-02-12T14:45:00"},
+    "customer_id": 367,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 8,
+        "quantity": 1
+     },
+      {
+        "item_no": 2,
+        "product_id": 42,
+        "quantity": 2
+     }
+    ],
+    "delivery_time": { "$date":"2024-02-15T16:00:00"}
+  },
+  {
+    "order_id": 1016,
+    "total_order_cost": 621.00,
+    "order_date":{ "$date": "2024-02-15T16:30:00"},
+    "customer_id": 489,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 23,
+        "quantity": 2
+     },
+      {
+        "item_no": 2,
+        "product_id": 36,
+        "quantity": 1
+     }
+    ],
+   "delivery_time": { "$date":"2024-02-18T13:15:00"}
+  },
+  {
+    "order_id": 1017,
+    "total_order_cost": 600.00,
+    "order_date":{ "$date": "2024-02-18T09:15:00"},
+    "customer_id": 489,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 36,
+        "quantity": 1
+     }
+    ],
+    "delivery_time": { "$date":"2024-02-20T16:00:00"}
+  },
+  {
+    "order_id": 1018,
+    "total_order_cost": 610.50,
+    "order_date":{ "$date": "2024-02-21T12:45:00"},
+    "customer_id": 489,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 23,
+        "quantity": 1
+     },
+      {
+        "item_no": 2,
+        "product_id": 36,
+        "quantity": 1
+     }
+    ],
+    "delivery_time": { "$date":"2024-02-25T14:00:00"}
+  },
+  {
+    "order_id": 1019,
+    "total_order_cost": 21.00,
+    "order_date":{ "$date": "2024-02-24T15:20:00"},
+    "customer_id": 489,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 23,
+        "quantity": 2
+     }
+    ],
+    "delivery_time": { "$date":"2024-02-26T18:00:00"}
+  },
+  {
+    "order_id": 1020,
+    "total_order_cost": 1200.00,
+    "order_date":{ "$date": "2024-02-27T10:30:00"},
+    "customer_id": 489,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 36,
+        "quantity": 2
+     }
+    ],
+   "delivery_time": { "$date":"2024-02-28T18:00:00"}
+  },
+  {
+    "order_id": 1021,
+    "total_order_cost": 409.00,
+    "order_date":{ "$date": "2024-03-01T11:45:00"},
+    "customer_id": 512,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 19,
+        "quantity": 1
+     },
+      {
+        "item_no": 2,
+        "product_id": 44,
+        "quantity": 1
+     }
+    ],
+    "delivery_time": { "$date":"2024-03-03T16:00:00"}
+  },
+  {
+    "order_id": 1022,
+    "total_order_cost": 20.00,
+    "order_date":{ "$date": "2024-03-04T14:20:00"},
+    "customer_id": 512,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 19,
+        "quantity": 2
+      }
+    ],
+    "delivery_time": { "$date":"2024-03-06T18:00:00"}
+  },
+  {
+    "order_id": 1023,
+    "total_order_cost": 798.00,
+    "order_date":{ "$date": "2024-03-07T16:15:00"},
+    "customer_id": 512,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 44,
+        "quantity": 2
+      }
+    ],
+    "delivery_time": { "$date":"2024-03-10T16:00:00"}
+  },
+  {
+    "order_id": 1024,
+    "total_order_cost": 409.00,
+    "order_date": { "$date":"2024-03-10T13:30:00"},
+    "customer_id": 512,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 19,
+        "quantity": 1
+      },
+      {
+        "item_no": 2,
+        "product_id": 44,
+        "quantity": 1
+      }
+    ],
+    "delivery_time": { "$date":"2024-03-12T16:00:00"}
+  },
+  {
+    "order_id": 1025,
+    "total_order_cost": 20.00,
+    "order_date": { "$date":"2024-03-13T09:45:00"},
+    "customer_id": 512,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 19,
+        "quantity": 2
+      }
+    ],
+    "delivery_time": { "$date":"2024-03-15T13:50:00"}
+  }
+  ,
+  {
+    "order_id": 1026,
+    "total_order_cost": 729.00,
+    "order_date": { "$date":"2024-03-16T10:30:00"}, 
+    "customer_id": 634,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 3,
+        "quantity": 2
+     },
+      {
+        "item_no": 2,
+        "product_id": 27,
+        "quantity": 1
+     }
+    ],
+    "delivery_time": { "$date":"2024-03-18T17:00:00"}
+  },
+  {
+    "order_id": 1027,
+    "total_order_cost": 699.00,
+    "order_date": { "$date":"2024-03-19T14:15:00"},
+    "customer_id": 634,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 27,
+        "quantity": 1
+     }
+    ],
+    "delivery_time": { "$date":"2024-03-21T17:30:00"}
+  },
+  {
+    "order_id": 1028,
+    "total_order_cost": 45.00,
+    "order_date": { "$date":"2024-03-22T11:45:00"},
+    "customer_id": 634,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 3,
+        "quantity": 3
+      }
+    ],
+    "delivery_time": { "$date":"2024-03-25T17:00:00"}
+  },
+  {
+    "order_id": 1029,
+    "total_order_cost": 1398.00,
+    "order_date":{ "$date": "2024-03-25T16:20:00"},
+    "customer_id": 634,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 27,
+        "quantity": 2
+      }
+    ],
+    "delivery_time": { "$date":"2024-03-27T15:30:00"}
+  },
+  {
+    "order_id": 1030,
+    "total_order_cost": 714.00,
+    "order_date": { "$date":"2024-03-28T09:30:00"},
+    "customer_id": 634,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 3,
+        "quantity": 1
+     },
+      {
+        "item_no": 2,
+        "product_id": 27,
+        "quantity": 1
+     }
+    ],
+    "delivery_time": { "$date":"2024-03-30T16:40:00"}
+  },
+  {
+    "order_id": 1031,
+    "total_order_cost": 18.20,
+    "order_date":{ "$date": "2024-03-31T13:45:00"},
+    "customer_id": 756,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 50,
+        "quantity": 2
+     },
+      {
+        "item_no": 2,
+        "product_id": 16,
+        "quantity": 1
+     }
+    ],
+    "delivery_time": { "$date":"2024-04-02T17:20:00"}
+  },
+  {
+    "order_id": 1032,
+    "total_order_cost": 20.40,
+    "order_date": { "$date":"2024-04-03T11:30:00"},
+    "customer_id": 756,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 16,
+        "quantity": 2
+      }
+    ],
+    "delivery_time": { "$date":"2024-04-05T17:10:00"}
+  },
+  {
+    "order_id": 1033,
+    "total_order_cost": 12.00,
+    "order_date":{ "$date": "2024-04-06T15:20:00"},
+    "customer_id": 756,
+    "category": "fresh",
+    "store":4,
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 50,
+        "quantity": 3
+      }
+    ],
+    "driver_id": 2,
+    "delivery_time": { "$date":"2024-04-06T17:20:00"}
+  },
+  {
+    "order_id": 1034,
+    "total_order_cost": 14.20,
+    "order_date": { "$date":"2024-04-09T10:15:00"},
+    "customer_id": 756,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 16,
+        "quantity": 1
+     },
+      {
+        "item_no": 2,
+        "product_id": 50,
+        "quantity": 1
+     }
+    ],
+    "delivery_time": { "$date":"2024-04-12T15:30:00"}
+  },
+  {
+    "order_id": 1035,
+    "total_order_cost": 8.00,
+    "order_date": { "$date":"2024-04-12T14:30:00"},
+    "customer_id": 756,
+    "category": "fresh",
+    "store":4,
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 50,
+        "quantity": 2
+      }
+    ],
+    "driver_id": 1,
+    "delivery_time": { "$date":"2024-04-12T16:50:00"}
+  },
+  {
+    "order_id": 1036,
+    "total_order_cost": 581.60,
+    "order_date": { "$date":"2024-04-15T09:45:00"},
+    "customer_id": 878,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 38,
+        "quantity": 1
+     },
+      {
+        "item_no": 2,
+        "product_id": 7,
+        "quantity": 2
+     }
+    ],
+    "delivery_time": { "$date":"2024-04-17T15:30:00"}
+  },
+  {
+    "order_id": 1037,
+    "total_order_cost": 15.80,
+    "order_date":{ "$date": "2024-04-18T16:30:00"},
+    "customer_id": 878,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 7,
+        "quantity": 1
+     }
+    ],
+    "delivery_time": { "$date":"2024-04-20T17:30:00"}
+  },
+  {
+    "order_id": 1038,
+    "total_order_cost": 1650.00,
+    "order_date": { "$date":"2024-04-21T13:15:00"},
+    "customer_id": 878,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 38,
+        "quantity": 3
+     }
+    ],
+    "delivery_time": { "$date":"2024-04-24T16:20:00"}
+  },
+  {
+    "order_id": 1039,
+    "total_order_cost": 581.60,
+    "order_date":{ "$date": "2024-04-24T11:45:00"},
+    "customer_id": 878,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 7,
+        "quantity": 2
+     },
+      {
+        "item_no": 2,
+        "product_id": 38,
+        "quantity": 1
+     }
+    ],
+    "delivery_time": { "$date":"2024-04-26T16:00:00"}
+  },
+  {
+    "order_id": 1040,
+    "total_order_cost": 550.00,
+    "order_date": { "$date":"2024-04-27T15:30:00"},
+    "customer_id": 878,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 38,
+        "quantity": 1
+     }
+    ],
+    "delivery_time": { "$date":"2024-04-30T16:00:00"}
+  },
+  {
+    "order_id": 1041,
+    "total_order_cost": 2598.00,
+    "order_date": { "$date":"2024-04-30T12:45:00"},
+    "customer_id": 901,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 29,
+        "quantity": 2
+     },
+      {
+        "item_no": 2,
+        "product_id": 41,
+        "quantity": 1
+     }
+    ],
+    "delivery_time": { "$date":"2024-05-02T15:30:00"}
+  },
+  {
+    "order_id": 1042,
+    "total_order_cost": 1800.00,
+    "order_date":{ "$date": "2024-05-03T10:30:00"},
+    "customer_id": 901,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 41,
+        "quantity": 2
+     }
+    ],
+    "delivery_time": { "$date":"2024-05-05T17:10:00"}
+  },
+  {
+    "order_id": 1043,
+    "total_order_cost": 2547.00,
+    "order_date": { "$date":"2024-05-06T14:15:00"},
+    "customer_id": 901,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 29,
+        "quantity": 3
+      }
+    ],
+    "delivery_time": { "$date":"2024-05-08T18:00:00"}
+  },
+  {
+    "order_id": 1044,
+    "total_order_cost": 1749.00,
+    "order_date":{ "$date": "2024-05-09T09:45:00"},
+    "customer_id": 901,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 41,
+        "quantity": 1
+     },
+      {
+        "item_no": 2,
+        "product_id": 29,
+        "quantity": 1
+     }
+    ],
+    "delivery_time": { "$date":"2024-05-11T15:30:00"}
+  },
+  {
+    "order_id": 1045,
+    "total_order_cost": 1698.00,
+    "order_date": { "$date":"2024-05-12T13:30:00"},
+    "customer_id": 901,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 29,
+        "quantity": 2
+     }
+    ],
+   "delivery_time": { "$date":"2024-05-15T16:30:00"}
+  }
+  ,
+  {
+    "order_id": 1046,
+    "total_order_cost": 419.00,
+    "order_date": { "$date":"2024-05-15T11:30:00"},
+    "customer_id": 145,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 13,
+        "quantity": 2
+     },
+      {
+        "item_no": 2,
+        "product_id": 33,
+        "quantity": 1
+     }
+    ],
+    "delivery_time": { "$date":"2024-05-17T16:50:00"}
+  },
+  {
+    "order_id": 1047,
+    "total_order_cost": 399.00,
+    "order_date": { "$date":"2024-05-18T15:45:00"},
+    "customer_id": 145, 
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 33,
+        "quantity": 1
+     }
+    ],
+    "delivery_time": { "$date":"2024-05-20T16:30:00"}
+  },
+  {
+    "order_id": 1048,
+    "total_order_cost": 30.00,
+    "order_date": { "$date":"2024-05-21T10:15:00"},
+    "customer_id": 145,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 13,
+        "quantity": 3
+      }
+    ],
+    "delivery_time": { "$date":"2024-05-24T16:45:00"}
+  },
+  {
+    "order_id": 1049,
+    "total_order_cost": 798.00,
+    "order_date":{ "$date": "2024-05-24T14:20:00"},
+    "customer_id": 145,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 33,
+        "quantity": 2
+      }
+    ],
+    "delivery_time": { "$date":"2024-05-26T16:35:00"}
+  },
+  {
+    "order_id": 1050,
+    "total_order_cost": 409.00,
+    "order_date":{ "$date": "2024-05-27T16:30:00"},
+    "customer_id": 145,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 13,
+        "quantity": 1
+     },
+      {
+        "item_no": 2,
+        "product_id": 33,
+        "quantity": 1
+     }
+    ],
+    "delivery_time": { "$date":"2024-05-29T13:00:00"}
+  },
+  {
+    "order_id": 1051,
+    "total_order_cost": 18.40,
+    "order_date":{ "$date":"2024-05-30T13:45:00"},
+    "customer_id": 267,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 45,
+        "quantity": 2
+     },
+      {
+        "item_no": 2,
+        "product_id": 21,
+        "quantity": 1
+     }
+    ],
+    "delivery_time": { "$date":"2024-06-01T16:00:00"}
+  },
+  {
+    "order_id": 1052,
+    "total_order_cost": 20.80,
+    "order_date": { "$date":"2024-06-02T11:20:00"},
+    "customer_id": 267,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 21,
+        "quantity": 2
+     }
+    ],
+    "delivery_time": { "$date":"2024-06-05T14:00:00"}
+  },
+  {
+    "order_id": 1053,
+    "total_order_cost": 12.00,
+    "order_date":{ "$date": "2024-06-05T15:30:00"},
+    "customer_id": 267,
+    "category": "fresh",
+    "store":2,
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 45,
+        "quantity": 3
+      }
+    ],
+    "driver_id": 4,
+    "delivery_time": { "$date":"2024-06-05T18:00:00"}
+  },
+  {
+    "order_id": 1054,
+    "total_order_cost": 21,
+    "order_date": { "$date":"2024-06-08T09:15:00"},
+    "customer_id": 267,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 21,
+        "quantity": 1
+     },
+      {
+        "item_no": 2,
+        "product_id": 22,
+        "quantity": 1
+     }
+    ],
+    "delivery_time": { "$date":"2024-06-10T16:30:00"}
+  },
+  {
+    "order_id": 1055,
+    "total_order_cost": 8.00,
+    "order_date":{ "$date": "2024-06-11T14:45:00"},
+    "customer_id": 267,
+    "category": "fresh",
+    "store":2,
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 45,
+        "quantity": 2
+      }
+    ],
+    "driver_id": 2,
+    "delivery_time": { "$date":"2024-06-11T17:30:00"}
+  },
+  {
+    "order_id": 1056,
+    "total_order_cost": 316.00,
+    "order_date":{ "$date": "2024-06-14T10:30:00"},
+    "customer_id": 389,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 4,
+        "quantity": 1
+     },
+      {
+        "item_no": 2,
+        "product_id": 39,
+        "quantity": 2
+     }
+    ],
+    "delivery_time": { "$date":"2024-06-17T17:00:00"}
+  },
+  {
+    "order_id": 1057,
+    "total_order_cost": 150.00,
+    "order_date": { "$date":"2024-06-17T14:15:00"},
+    "customer_id": 389,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 39,
+        "quantity": 1
+     }
+    ],
+    "delivery_time": { "$date":"2024-06-19T17:20:00"}
+  },
+  {
+    "order_id": 1058,
+    "total_order_cost": 48.00,
+    "order_date": { "$date":"2024-06-20T11:45:00"},
+    "customer_id": 389,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 4,
+        "quantity": 3
+     }
+    ],
+    "delivery_time": { "$date":"2024-06-22T16:20:00"}
+  },
+  {
+    "order_id": 1059,
+    "total_order_cost": 300.00,
+    "order_date": { "$date":"2024-06-23T16:20:00"},
+    "customer_id": 389,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 39,
+        "quantity": 2
+      }
+    ],
+    "delivery_time": { "$date":"2024-06-25T13:30:00"}
+  },
+  {
+    "order_id": 1060,
+    "total_order_cost": 166.00,
+    "order_date":{ "$date": "2024-06-26T13:30:00"},
+    "customer_id": 389,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 4,
+        "quantity": 1
+     },
+      {
+        "item_no": 2,
+        "product_id": 39,
+        "quantity": 1
+      }
+    ],
+    "delivery_time": { "$date":"2024-06-28T16:45:00"}
+  },
+  {
+    "order_id": 1061,
+    "total_order_cost": 31.40,
+    "order_date": { "$date":"2024-06-29T09:15:00"},
+    "customer_id": 412,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 17,
+        "quantity": 2
+     },
+      {
+        "item_no": 2,
+        "product_id": 21,
+        "quantity": 1
+     }
+    ],
+    "delivery_time": { "$date":"2024-06-30T15:30:00"}
+  },
+  {
+    "order_id": 1062,
+    "total_order_cost": 5.00,
+    "order_date": { "$date":"2024-07-02T13:45:00"},
+    "customer_id": 412,
+    "category": "fresh",
+    "store":5,
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 48,
+        "quantity": 2
+     }
+    ],
+    "driver_id": 3,
+    "delivery_time": { "$date":"2024-07-02T16:30:00"}
+  },
+  {
+    "order_id": 1063,
+    "total_order_cost": 31.50,
+    "order_date":{ "$date": "2024-07-05T15:20:00"},
+    "customer_id": 412,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 17,
+        "quantity": 3
+     }
+    ],
+    "delivery_time": { "$date":"2024-07-08T15:40:00"}
+  },
+  {
+    "order_id": 1064,
+    "total_order_cost": 8.00,
+    "order_date": { "$date":"2024-07-08T11:30:00"},
+    "customer_id": 412,
+    "category": "fresh",
+    "store":6,
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 48,
+        "quantity": 2
+      },
+      {
+        "item_no": 2,
+        "product_id": 49,
+        "quantity": 1
+      }
+    ],
+    "driver_id": 3,
+    "delivery_time": { "$date":"2024-07-08T13:30:00"}
+  },
+  {
+    "order_id": 1065,
+    "total_order_cost": 21.00,
+    "order_date":{ "$date": "2024-07-11T14:15:00"},
+    "customer_id": 412,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 17,
+        "quantity": 2
+      }
+    ],
+    "delivery_time": { "$date":"2024-07-13T12:00:00"}
+  }
+  ,
+  {
+    "order_id": 1066,
+    "total_order_cost": 171.20,
+    "order_date":{ "$date": "2024-07-14T09:30:00"},
+    "customer_id": 534,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 22,
+        "quantity": 2
+      },
+      {
+        "item_no": 2,
+        "product_id": 39,
+        "quantity": 1
+      }
+    ],
+    "delivery_time": { "$date":"2024-07-17T12:30:00"}
+  },
+  {
+    "order_id": 1067,
+    "total_order_cost": 300.00,
+    "order_date":{ "$date": "2024-07-17T13:45:00"}, 
+    "customer_id": 534,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 39,
+        "quantity": 2
+      }
+    ],
+    "delivery_time": { "$date":"2024-07-18T13:00:00"}
+  },
+  {
+    "order_id": 1068,
+    "total_order_cost": 31.80,
+    "order_date": { "$date":"2024-07-23T16:20:00"},
+    "customer_id": 534,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 22,
+        "quantity": 3
+      }
+    ],
+    "delivery_time": { "$date":"2024-07-25T14:00:00"}
+  },
+  {
+    "order_id": 1069,
+    "total_order_cost": 160.60,
+    "order_date": { "$date":"2024-07-26T10:15:00"},
+    "customer_id": 534,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 39,
+        "quantity": 1
+      },
+      {
+        "item_no": 2,
+        "product_id": 22,
+        "quantity": 1
+      }
+    ],
+    "delivery_time": { "$date":"2024-07-28T16:00:00"}
+  },
+  {
+    "order_id": 1070,
+    "total_order_cost": 21.20,
+    "order_date":{ "$date": "2024-07-29T14:30:00"},
+    "customer_id": 534,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 22,
+        "quantity": 2
+      }
+    ],
+    "delivery_time": { "$date":"2024-08-01T17:00:00"}
+  },
+  {
+    "order_id": 1071,
+    "total_order_cost": 1073.80,
+    "order_date":{ "$date": "2024-08-01T11:45:00"},
+    "customer_id": 656,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 11,
+        "quantity": 1
+      },
+      {
+        "item_no": 2,
+        "product_id": 31,
+        "quantity": 2
+      }
+    ],
+    "delivery_time": { "$date":"2024-08-04T15:00:00"}
+  },
+  {
+    "order_id": 1072,
+    "total_order_cost": 1587.00,
+    "order_date": { "$date":"2024-08-04T15:20:00"},
+    "customer_id": 656,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 31,
+        "quantity": 3
+      }
+    ],
+    "delivery_time": { "$date":"2024-08-06T14:30:00"}
+  },
+  {
+    "order_id": 1073,
+    "total_order_cost": 31.60,
+    "order_date": { "$date":"2024-08-07T09:30:00"},
+    "customer_id": 656,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 11,
+        "quantity": 2
+      }
+    ],
+    "delivery_time": { "$date":"2024-08-08T15:00:00"}
+  },
+  {
+    "order_id": 1074,
+    "total_order_cost": 544.80,
+    "order_date":{ "$date": "2024-08-19T14:15:00"},
+    "customer_id": 656,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 31,
+        "quantity": 1
+      },
+      {
+        "item_no": 2,
+        "product_id": 11,
+        "quantity": 1
+      }
+    ],
+    "delivery_time": { "$date":"2024-08-21T16:30:00"}
+  },
+  {
+    "order_id": 1075,
+    "total_order_cost": 31.60,
+    "order_date":{ "$date": "2024-08-19T14:15:00"},
+    "customer_id": 656,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 11,
+        "quantity": 2
+      }
+    ],
+    "delivery_time": { "$date":"2024-08-21T17:00:00"}
+  },
+  {
+    "order_id": 1076,
+    "total_order_cost": 1997.00,
+    "order_date":{ "$date": "2024-08-19T14:15:00"},
+    "customer_id": 778,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 25,
+        "quantity": 2
+      },
+      {
+        "item_no": 2,
+        "product_id": 44,
+        "quantity": 1
+      }
+    ],
+    "delivery_time": { "$date":"2024-08-22T13:40:00"}
+  },
+  {
+    "order_id": 1077,
+    "total_order_cost": 6.40,
+    "order_date":{ "$date": "2024-08-19T14:15:00"},
+    "customer_id": 778,
+    "category": "fresh",
+    "store":4,
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 46,
+        "quantity": 2
+      }
+    ],
+    "driver_id": 2,
+    "delivery_time": { "$date":"2024-08-19T16:30:00"}
+  },
+  {
+    "order_id": 1078,
+    "total_order_cost": 2397.00,
+    "order_date": { "$date":"2024-08-22T11:45:00"},
+    "customer_id": 778,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 25,
+        "quantity": 3
+      }
+    ],
+    "delivery_time": { "$date":"2024-08-24T15:35:00"}
+  },
+  {
+    "order_id": 1079,
+    "total_order_cost": 802.20,
+    "order_date": { "$date":"2024-08-25T15:30:00"},
+    "customer_id": 778,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 25,
+        "quantity": 1
+      }
+    ],
+    "delivery_time": { "$date":"2024-08-28T16:45:00"}
+  },
+  {
+    "order_id": 1080,
+    "total_order_cost": 1598.00,
+    "order_date": { "$date":"2024-08-28T09:15:00"},
+    "customer_id": 778,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 25,
+        "quantity": 2
+      }
+    ],
+    "delivery_time": { "$date":"2024-08-30T17:30:00"}
+  }
+  ,
+  {
+    "order_id": 1081,
+    "total_order_cost": 867.00,
+    "order_date": { "$date":"2024-09-20T10:30:00"},
+    "customer_id": 891,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 15,
+        "quantity": 2
+      },
+      {
+        "item_no": 2,
+        "product_id": 29,
+        "quantity": 1
+      }
+    ],
+    "delivery_time": { "$date":"2024-09-22T15:00:00"}
+  },
+  {
+    "order_id": 1082,
+    "total_order_cost": 1698.00,
+    "order_date": { "$date":"2024-09-23T14:15:00"},
+    "customer_id": 891,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 29,
+        "quantity": 2
+      }
+    ],
+    "delivery_time": { "$date":"2024-09-25T15:40:00"}
+  },
+  {
+    "order_id": 1083,
+    "total_order_cost": 27.00,
+    "order_date": { "$date":"2024-09-26T16:45:00"},
+    "customer_id": 891,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 15,
+        "quantity": 3
+      }
+    ],
+    "delivery_time": { "$date":"2024-09-29T15:40:00"}
+  },
+  {
+    "order_id": 1084,
+    "total_order_cost": 858.00,
+    "order_date": { "$date":"2024-09-29T11:20:00"},
+    "customer_id": 891,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 29,
+        "quantity": 1
+      },
+      {
+        "item_no": 2,
+        "product_id": 15,
+        "quantity": 1
+      }
+    ],
+    "delivery_time": { "$date":"2024-11-01T15:30:00"}
+  },
+  {
+    "order_id": 1085,
+    "total_order_cost": 18.00,
+    "order_date": { "$date":"2024-10-02T13:30:00"},
+    "customer_id": 891,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 15,
+        "quantity": 2
+      }
+    ],
+    "delivery_time": { "$date":"2024-11-04T15:30:00"}
+  },
+  {
+    "order_id": 1086,
+    "total_order_cost": 1115.80,
+    "order_date":{ "$date": "2024-10-05T09:45:00"},
+    "customer_id": 923,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 7,
+        "quantity": 1
+      },
+      {
+        "item_no": 2,
+        "product_id": 38,
+        "quantity": 2
+      }
+    ],
+    "delivery_time": { "$date":"2024-11-07T16:50:00"}
+  },
+  {
+    "order_id": 1087,
+    "total_order_cost": 1650.00,
+    "order_date": { "$date":"2024-10-08T12:30:00"},
+    "customer_id": 923,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 38,
+        "quantity": 3
+      }
+    ],
+    "delivery_time": { "$date":"2024-11-10T14:30:00"}
+  },
+  {
+    "order_id": 1088,
+    "total_order_cost": 31.60,
+    "order_date":{ "$date":"2024-10-11T15:15:00"},
+    "customer_id": 923,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 7,
+        "quantity": 2
+      }
+    ],
+    "delivery_time": { "$date":"2024-11-13T16:30:00"}
+  },
+  {
+    "order_id": 1089,
+    "total_order_cost": 565.80,
+    "order_date":{ "$date": "2024-10-14T10:45:00"},
+    "customer_id": 923,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 38,
+        "quantity": 1
+      },
+      {
+        "item_no": 2,
+        "product_id": 7,
+        "quantity": 1
+      }
+    ],
+    "delivery_time": { "$date":"2024-11-15T16:00:00"}
+  },
+  {
+    "order_id": 1090,
+    "total_order_cost": 31.60,
+    "order_date": { "$date":"2024-10-17T14:20:00"},
+    "customer_id": 923,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 7,
+        "quantity": 2
+      }
+    ],
+    "delivery_time": { "$date":"2024-11-19T18:00:00"}
+  }
+  ,
+  {
+    "order_id": 1091,
+    "total_order_cost": 867.00,
+    "order_date":{ "$date": "2024-11-10T09:30:00"},
+    "customer_id": 167,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 15,
+        "quantity": 2
+      },
+      {
+        "item_no": 2,
+        "product_id": 29,
+        "quantity": 1
+      }
+    ],
+    "delivery_time": { "$date":"2024-11-12T17:30:00"}
+  },
+  {
+    "order_id": 1092,
+    "total_order_cost": 1698.00,
+    "order_date": { "$date":"2024-11-13T13:45:00"},
+    "customer_id": 167,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 29,
+        "quantity": 2
+      }
+    ],
+    "delivery_time": { "$date":"2024-11-15T16:40:00"}
+  },
+  {
+    "order_id": 1093,
+    "total_order_cost": 27.00,
+    "order_date": { "$date":"2024-11-16T16:20:00"},
+    "customer_id": 167,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 15,
+        "quantity": 3
+      }
+    ],
+    "delivery_time": { "$date":"2024-11-18T12:30:00"}
+  },
+  {
+    "order_id": 1094,
+    "total_order_cost": 858.00,
+    "order_date":{ "$date": "2024-11-19T11:20:00"},
+    "customer_id": 167,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 29,
+        "quantity": 1
+      },
+      {
+        "item_no": 2,
+        "product_id": 15,
+        "quantity": 1
+      }
+    ],
+    "delivery_time": { "$date":"2024-11-22T13:40:00"}
+  },
+  {
+    "order_id": 1095,
+    "total_order_cost": 18.00,
+    "order_date":{ "$date": "2024-11-22T13:30:00"},
+    "customer_id": 167,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 15,
+        "quantity": 2
+      }
+    ],
+    "delivery_time": { "$date":"2024-11-24T14:25:00"}
+  },
+  {
+    "order_id": 1096,
+    "total_order_cost": 1799.00,
+    "order_date": { "$date":"2024-11-25T09:45:00"}, 
+    "customer_id": 289,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 25,
+        "quantity": 1
+      },
+      {
+        "item_no": 2,
+        "product_id": 40,
+        "quantity": 2
+      }
+    ],
+    "delivery_time": { "$date":"2024-11-26T13:40:00"}
+  },
+  {
+    "order_id": 1097,
+    "total_order_cost": 1000.00,
+    "order_date":{ "$date": "2024-11-28T15:20:00"},
+    "customer_id": 289,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 40,
+        "quantity": 2
+      }
+    ],
+    "delivery_time": { "$date":"2024-12-01T15:30:00"}
+  },
+  {
+    "order_id": 1098,
+    "total_order_cost": 1598.00,
+    "order_date": { "$date":"2024-12-01T09:30:00"},
+    "customer_id": 289,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 25,
+        "quantity": 2
+      }
+    ],
+    "delivery_time": { "$date":"2024-12-03T16:04:00"}
+  },
+  {
+    "order_id": 1099,
+    "total_order_cost": 1500.00,
+    "order_date": { "$date":"2024-12-04T13:15:00"},
+    "customer_id": 289,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 40,
+        "quantity": 3
+      }
+    ],
+    "delivery_time": { "$date":"2024-12-05T14:05:00"}
+  },
+  {
+    "order_id": 1100,
+    "total_order_cost": 1598.00,
+    "order_date": { "$date":"2024-12-07T16:45:00"},
+    "customer_id": 289,
+    "category": "regular",
+    "item": [
+      {
+        "item_no": 1,
+        "product_id": 25,
+        "quantity": 2
+      }
+    ],
+    "delivery_time": { "$date":"2024-12-09T14:50:00"}
+  }
+]
+

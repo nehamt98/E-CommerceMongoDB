@@ -1,0 +1,61 @@
+[
+  {
+    "product_id": 35,
+    "colour": "Blue",
+    "voltage": 220,
+    "style": "Cordless Stick Vacuum"
+  },
+  {
+    "product_id": 36,
+    "colour": "Silver",
+    "voltage": 220,
+    "style": "Top Freezer"
+  },
+  {
+    "product_id": 37,
+    "colour": "Black Stainless Steel",
+    "voltage": 120,
+    "style": "Countertop Microwave"
+  },
+  {
+    "product_id": 38,
+    "colour": "White",
+    "voltage": 220,
+    "style": "Front Load"
+  },
+  {
+    "product_id": 39,
+    "colour": "Black",
+    "voltage": 220,
+    "style": "Compact Air Fryer"
+  },
+  {
+    "product_id": 40,
+    "voltage": 220,
+    "style": "Freestanding Dishwasher"
+  },
+  {
+    "product_id": 41,
+    "colour": "Black",
+    "voltage": 110,
+    "style": "4K Ultra HD Smart TV"
+  },
+  {
+    "product_id": 42,
+    "colour": "Brushed Stainless Steel",
+    "voltage": 220,
+    "style": "Espresso Machine"
+  },
+  {
+    "product_id": 43,
+    "colour": "Silver/Black",
+    "voltage": 120,
+    "style": "Multi-Use Pressure Cooker"
+  },
+  {
+    "product_id": 44,
+    "colour": "White",
+    "voltage": 220,
+    "style": "Chest Freezer"
+  }
+]
