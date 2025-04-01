@@ -1,7 +1,7 @@
 import os
 import json
 from pymongo import MongoClient
-from scripts.db_connect import get_db
+from db_connect import get_db
 
 # Path to your data folder
 DATA_DIR = os.path.join(os.path.dirname(__file__), "../data")

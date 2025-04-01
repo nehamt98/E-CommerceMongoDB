@@ -33,14 +33,11 @@ def inventory_by_warehouse():
     with open("Question4_Query9.json", "w") as file:
         json.dump(inventory_list, file, default=str, indent=4)
 
-def main(args):
+def main():
     try:
         inventory_by_warehouse()
     except Exception as e:
         print("Error:", e)
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Show total inventory levels per warehouse.")
-
-    args = parser.parse_args()
-    main(args)
+    main()
