@@ -31,6 +31,26 @@ conn_str = "mongodb+srv://<ID>:<password>@udatabases.a2oqj.mongodb.net/?retryWri
 ```
 python scripts/seed_database.py
 ```
+## Database Collections
+
+| Collection Name         | Description                                                                |
+|-------------------------|----------------------------------------------------------------------------|
+| `amazone_partners`      | Delivery partners/drivers with status and live location                    |
+| `books`                 | Book products with metadata like author, publisher, ISBN                   |
+| `cds`                   | CD products with artist, track count, and duration                         |
+| `current_orders`        | Active (pending/confirmed) customer orders                                 |
+| `customer_address`      | One-to-many addresses linked to customers (billing/shipping)               |
+| `customers`             | Customer data including demographics, ID, and recommendation list          |
+| `daily_inventory_level` | Historical inventory levels by warehouse and product                       |
+| `delivery_records`      | Records of past deliveries, possibly for partner payout tracking           |
+| `fresh_products`        | Grocery items linked to stores                       |
+| `home_appliances`       | Appliance products with specs like voltage, style, and color               |
+| `mobile_phones`         | Phone products with brand, model, color, and features                      |
+| `past_orders`           | Delivered orders including total cost and order items                      |
+| `products`              | Unified product master data used for lookups and categorization            |
+| `ratings`               | Customer-product rating documents (sparse but frequently queried)          |
+| `regular_products`      | Non-grocery products (books, CDs, phones, appliances)                      |
+| `stores`                | Morrizon store metadata with geo-coordinates and available inventory       |
 ## Running the Queries
 Each query is implemented as a standalone CLI script inside the queries/ folder.
 
